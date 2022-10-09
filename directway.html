@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+
+</head>
+<body>
+
+    
+    <div id="input">
+        <input type="text"  placeholder="Code Chef username" id="uname"/><br/><br/>
+        <input type="password" placeholder="password" id="pass"><br/><br/>
+        <button onclick="fetch()">submit</button>
+    </div>
+
+        <h1 id="user"></h1>
+        <div style="display:none" id="view">
+            <input type="text" id="student" placeholder="user-name"/>&nbsp;
+            <button onclick="insert()">Add</button>
+            <input type="text" id="date" placeholder="date  (2021-01-05)"/>&nbsp;
+            <button onclick="search()">Search</button>
+            <br/><br/>
+
+            <table>
+                <thead>
+                    <th>S.No</th>
+                    <th>Name</th>
+                    <th>Division</th>
+                    <th>Rank</th>
+                    <th>Rating</th>
+                </thead>
+                <tbody id="table">
+
+                </tbody>
+            </table>
+        </div>
+
+
+
+
+<script type="text/babel">
+     
+     let uname="";
+     
+
+     class Ranking{
+
+         constructor(name,division,rank,rate){
+
+            this.name=name;
+            this.division=division;
+            this.rank=rank;
+            this.rate=rate;
+
+         }
+
+     }
+     
+     function View(props){
+
+        let li=[];
+
+        console.log(props.details);
+
+        props.details.sort((a,b)=>{
+
+            if(a.div!=b.div)
+            return a.div-b.div;
+            
+            return a.rank-b.rank;
+        })
+
+        for(let i=0;i<props.details.length;i++){
+
+            let temp=<tr><td>{i+1}</td><td>{props.details[i].name}</td><td>{props.details[i].division}</td><td>{props.details[i].rank}</td><td>{props.details[i].rate}</td></tr>;
+            li.push(temp);                
+        }
+        
+        
+        
+        console.log(li);
+        return li;
+
+     }
+     
+     function fetch(){
+        
+        uname=document.getElementById("uname").value;
+        let pass=document.getElementById("pass").value;
+
+        document.getElementById("view").style.display="block";
+        document.getElementById("input").style.display="none";
+
+        let ajax=new XMLHttpRequest();
+
+        ajax.onload=()=>{
+
+             document.getElementById("user").innerHTML=ajax.responseText+" logged in";
+        }
+
+        ajax.open("GET",`http://localhost/platformtrack/auth.php?uname=${uname}&pass=${pass}&opt=1`);
+        ajax.send();
+
+     }
+
+        function insert(){
+             
+            let student=document.getElementById("student").value;
+
+            let ajax=new XMLHttpRequest();
+
+            ajax.onload=()=>{
+                 
+                if(ajax.responseText==1)
+                   alert("Inserted");
+                else
+                  alert("Not inserted");
+            }
+
+            ajax.open("GET",`http://localhost/platformtrack/auth.php?uname=${uname}&student=${student}&opt=2`);
+            ajax.send();
+            
+        }
+    
+    function search(){ 
+
+        let contestDate=document.getElementById("date").value;
+
+        let ajax=new XMLHttpRequest();
+
+        ajax.onload=()=>{
+                   
+             let arr=ajax.responseText.split(",");
+            // console.log(arr);
+
+             let details=[];
+
+         for(let i=0;i<arr.length;i++){ 
+             
+            console.log(arr[i]);
+
+             let http=new XMLHttpRequest();
+
+             http.onload=()=>{
+
+              let dom=new DOMParser().parseFromString(http.responseText,"text/html");
+
+              let rate=dom.getElementsByClassName("rating")[1].innerText;
+              let rank=dom.getElementsByClassName("global-rank")[0].innerText;
+              let date=dom.getElementsByClassName("time")[0].innerText;
+              let division=dom.getElementsByTagName("a")[38].innerText;
+            
+
+              division=division.trim();
+              
+              let strArr=division.split(" ");
+
+              let div=Number(strArr[strArr.length-2]);
+              
+
+              console.log(div);
+
+            // console.log("hello");
+
+              if(contestDate.localeCompare(date.substring(1,11))==0){ 
+                 
+                 details.push(new Ranking(arr[i],div,rank,rate));
+                 ReactDOM.render(<View details={details}/>,document.getElementById("table"));
+                 
+              }
+
+
+
+            }
+        
+            http.open("GET",`http://localhost/platformtrack/track.php?uname=${arr[i]}`);
+            http.send();
+        }
+        
+    }
+
+        ajax.open("GET",`http://localhost/platformtrack/auth.php?uname=${uname}&opt=3`);
+        ajax.send();
+        
+        
+    }
+
+        
+
+</script>
+
+</body>
+</html>

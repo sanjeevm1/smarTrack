@@ -1,0 +1,39 @@
+
+
+
+thead{
+     background-color: black;
+     color: white;
+     border-style: solid;
+     align-content: center;
+}
+
+#tname{
+
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#ts{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#td{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#tr{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+tbody{
+    border-style:solid;
+    background-color: rgb(204, 162, 204);
+    text-align:center;
+}

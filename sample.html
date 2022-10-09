@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+            
+            let ajax=new XMLHttpRequest();
+            ajax.onload=()=>{
+                 
+                let data=JSON.parse(ajax.responseText)["EEE"];
+                console.log(data);
+
+                for(let i=0;i<data.length;i++){
+                    
+                    //console.log(data[i]["First Name"]);
+                    let http=new XMLHttpRequest();
+
+                    http.onload=()=>{
+                        console.log(http.responseText);
+                    }
+
+                    http.open("GET",`insertAll.php?name=${data[i]["First Name "]}&no=${"21EEE"+(i+1)}&cname=${data[i]["Codechef Username (if exists)"].trim()}&leet=${" "}`);
+                    http.send();
+                   // console.log(data[i]["First Name "]);
+                }
+            }
+
+            ajax.open("GET","Sri Eshwar College - Students Data.json");
+            ajax.send();
+    
+    </script>
+</body>
+</html>

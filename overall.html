@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <script src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
+
+    <style type="text/css">
+    
+      big{
+
+        position: absolute;
+        top:40%;
+        left:25%;
+        font-size: 100px;
+        font-weight: bolder;
+      }
+
+      #inputs{
+          position: absolute;
+          top:20%;
+          left:40%;
+      }
+    </style>
+
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="inputs">
+    <input type="text" id="cid"/>
+    
+    <select id="year">
+        <option value=0>Year</option>
+        <option value=1>1</option>
+        <option value=2>2</option>
+        <option value=3>3</option>
+        <option value=4>4</option>
+    </select>
+
+    <select id="dept">
+        <option value="">Department</option>
+        <option value="CSE">CSE</option>
+        <option value="IT">IT</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+        <option value="Mech">MECH</option>
+        <option value="CCE">CCE</option>
+        <option value="CSBS">CSBS</option>
+        <option value="AIDS">AIDS</option>
+    </select>
+
+    
+    <select id="sec">
+        <option value="">Section</option>
+        <option value=" A">A</option>
+        <option value=" B">B</option>
+        <option value=" C">C</option>
+    </select>
+    
+    <button id="re" onclick="result()">Results</button>
+    <button id="xl" onclick="toExcel()" style="display:none">Download</button>
+   </div> 
+    
+    <br/>
+
+    <br/><br/>
+
+    <big id="title">Codechef Report</big>
+
+    <table style="display:none" id="tb">
+        <thead>
+            <th>S.No</th>
+            <th>Name</th>
+            <th>userId</th>
+            <th>Rank</th>
+            <th>Score</th>
+        </thead>
+        <tbody id="table">
+
+        </tbody>
+    </table>
+
+    <script type="text/babel">
+
+    let total=0;
+    
+    class Store{
+
+        constructor(name,userId,count,rank){
+
+            this.name=name;
+            this.userId=userId;
+            this.count=count;
+            this.rank=rank
+        }
+    }
+
+    let year=document.getElementById("year");
+    let dept=document.getElementById("dept");
+    let sec=document.getElementById("sec");
+    let cid=document.getElementById("cid");
+    let len=0;
+
+    function toExcel(){
+             
+        console.log("hi");
+             
+             let table=document.getElementById("tb");
+             let file=XLSX.utils.table_to_book(table,{sheet : "RankList"});
+ 
+             XLSX.write(file,{bookType : 'xlsx',bookSST : true,type : 'base64'});
+             XLSX.writeFile(file,dept.value+"_"+sec.value+"_"+cid.value+".xlsx");
+     }
+
+
+ function result(){
+
+    let ajax=new XMLHttpRequest();
+    let details=[];
+
+    document.getElementById("title").innerText="Loading.......";
+    document.getElementById("title").style.left="35%";
+    
+    console.log(dept.value.trim());
+
+    ajax.onload=()=>{
+
+        let arr=JSON.parse(ajax.responseText)[dept.value+sec.value];
+        console.log(arr);
+        len=arr.length-1;
+
+        for(let i=1;i<arr.length;i++){
+
+            let temp=arr[i];
+            //console.log(temp);
+
+            //let obj=new Store(temp[0],Number(temp[1]),temp[2],temp[3],temp[4],temp[5]);
+            //if(temp[1]==year.value && temp[2].localeCompare(dept.value.trim())==0 && temp[3].localeCompare(sec.value.trim())==0){
+                
+
+            let http=new XMLHttpRequest();
+
+            http.onload=()=>{
+                //console.log("hi");
+                
+                let dom,rank,count;
+
+                try{
+                dom=new DOMParser().parseFromString(http.responseText,"text/html");
+                
+
+                let str=dom.getElementsByClassName("place-cell")[0].innerText.trim().split(" ");
+
+                if(dom.getElementsByTagName("tr").length<=2){
+
+                rank=Number(str[0]);
+                str=dom.getElementsByClassName("score-cell")[0].innerText
+                count=Number(str.trim());
+                /*console.log(dom.getElementsByTagName("tr").length);
+                console.log(temp.Column8+" "+rank+" "+count);*/
+
+                }
+
+                else{
+                    rank=Infinity;
+                    count=0;
+                }
+                
+            }
+
+            catch(err){
+                rank=Infinity;
+                count=0;
+            }
+                
+                //console.log(obj);
+                console.log(temp.Column8+" "+rank+" "+count);
+                let obj=new Store(temp.Column7,temp.Column8,count,rank);
+                details.push(obj);
+               // console.log(obj);
+
+
+            ReactDOM.render(<View details={details}/>,document.getElementById("table"));
+                
+
+            }
+
+            http.open("GET",`http://localhost:5000/leetcode?cname=${cid.value}&uname=${temp.Column8}`);
+            http.send();
+
+        }
+
+        }
+
+
+    ajax.open("GET","LC Student ID-1.json");
+    ajax.send();
+
+    }
+
+    function View(props){
+
+        let li=[];
+        let det=props.details;
+        console.log(len);
+     
+
+        for(let i=0;i<det.length;i++){
+            
+            let temp=<tr><td>{i+1}</td><td>{det[i].name}</td><td>{det[i].userId}</td><td>{det[i].rank}</td><td>{det[i].count}</td></tr>;
+            li.push(temp);
+
+        }
+
+        if(det.length>=len){
+                document.getElementById("re").style.display="none";
+                document.getElementById("xl").style.display="block";
+                document.getElementById("title").innerText="Download";
+        }
+
+        return li;
+    }
+
+    
+    
+    </script>
+    
+</body>
+</html>

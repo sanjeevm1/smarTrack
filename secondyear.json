@@ -1,0 +1,1892 @@
+{
+    "CSE A":[
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": 1,
+      "Column2": "ABBINAVU T",
+      "Column3": "abi_2002"
+     },
+     {
+      "Department of Computer Science and Engineering": 2,
+      "Column2": "ABHI NIVESH R",
+      "Column3": "nivesh_2002"
+     },
+     {
+      "Department of Computer Science and Engineering": 3,
+      "Column2": "AISHWARYA S",
+      "Column3": "aishwarya_sm"
+     },
+     {
+      "Department of Computer Science and Engineering": 4,
+      "Column2": "AKSHAY KRISHNA N",
+      "Column3": "akshay_1511"
+     },
+     {
+      "Department of Computer Science and Engineering": 5,
+      "Column2": "ANKITHA V S",
+      "Column3": "ankitha_713"
+     },
+     {
+      "Department of Computer Science and Engineering": 6,
+      "Column2": "ARTHI V",
+      "Column3": "arthi_006"
+     },
+     {
+      "Department of Computer Science and Engineering": 7,
+      "Column2": "ARUN KUMAR P",
+      "Column3": "arun2211"
+     },
+     {
+      "Department of Computer Science and Engineering": 8,
+      "Column2": "ASHISH SINGH",
+      "Column3": "ashish_008"
+     },
+     {
+      "Department of Computer Science and Engineering": 9,
+      "Column2": "ASHWITHA NOBLE P",
+      "Column3": "ashwitha_noble"
+     },
+     {
+      "Department of Computer Science and Engineering": 10,
+      "Column2": "BAGAVATHI ANANDHAN E",
+      "Column3": "anand_e"
+     },
+     {
+      "Department of Computer Science and Engineering": 11,
+      "Column2": "BALAJIRAM N",
+      "Column3": "balaji_08"
+     },
+     {
+      "Department of Computer Science and Engineering": 12,
+      "Column2": "BALAMURUGAN K",
+      "Column3": "bala_k_74923"
+     },
+     {
+      "Department of Computer Science and Engineering": 13,
+      "Column2": "BHARATH KUMAR R",
+      "Column3": "bharath786"
+     },
+     {
+      "Department of Computer Science and Engineering": 14,
+      "Column2": "BLESSED JEBERSON J Q",
+      "Column3": "blessed_01"
+     },
+     {
+      "Department of Computer Science and Engineering": 15,
+      "Column2": "CHARAN SRI KRISHNA S",
+      "Column3": "charan795"
+     },
+     {
+      "Department of Computer Science and Engineering": 16,
+      "Column2": "CHINMAI DEEPIKA M",
+      "Column3": "chinmai_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 17,
+      "Column2": "DEVAMITRA T",
+      "Column3": "devamitra "
+     },
+     {
+      "Department of Computer Science and Engineering": 18,
+      "Column2": "DHANUSH B",
+      "Column3": "dhanush295"
+     },
+     {
+      "Department of Computer Science and Engineering": 19,
+      "Column2": "DHANUSHYA R",
+      "Column3": "dhanu_50"
+     },
+     {
+      "Department of Computer Science and Engineering": 20,
+      "Column2": "DHARANI P",
+      "Column3": "dharu_1"
+     },
+     {
+      "Department of Computer Science and Engineering": 21,
+      "Column2": "DINESH P",
+      "Column3": "dinu_07"
+     },
+     {
+      "Department of Computer Science and Engineering": 22,
+      "Column2": "DIVAKAR V S",
+      "Column3": "divakar02"
+     },
+     {
+      "Department of Computer Science and Engineering": 23,
+      "Column2": "DIVYA PRIYA S",
+      "Column3": "divyapriya_11"
+     },
+     {
+      "Department of Computer Science and Engineering": 24,
+      "Column2": "ESHA MALAVIKA V S",
+      "Column3": "esha101"
+     },
+     {
+      "Department of Computer Science and Engineering": 25,
+      "Column2": "FARHEEN A S",
+      "Column3": "faruhannu_123"
+     },
+     {
+      "Department of Computer Science and Engineering": 26,
+      "Column2": "GAYATHRI M",
+      "Column3": "gayathrim_06"
+     },
+     {
+      "Department of Computer Science and Engineering": 27,
+      "Column2": "GEETHANJALI G",
+      "Column3": "geethanjali_04"
+     },
+     {
+      "Department of Computer Science and Engineering": 28,
+      "Column2": "GNANA JOTHI T",
+      "Column3": "gnanajothi_07"
+     },
+     {
+      "Department of Computer Science and Engineering": 29,
+      "Column2": "GOKUL S",
+      "Column3": "gokul_030"
+     },
+     {
+      "Department of Computer Science and Engineering": 30,
+      "Column2": "GOLUGURI YASWANTH DURGA REDDY",
+      "Column3": "yaswanth1925"
+     },
+     {
+      "Department of Computer Science and Engineering": 31,
+      "Column2": "GOVINDHA RAMANATHAN S",
+      "Column3": "govindh_333s"
+     },
+     {
+      "Department of Computer Science and Engineering": 32,
+      "Column2": "GOWREESH A M",
+      "Column3": "gowreesh_a_m"
+     },
+     {
+      "Department of Computer Science and Engineering": 33,
+      "Column2": "GOWSHIKAN S",
+      "Column3": "gowshikan_29"
+     },
+     {
+      "Department of Computer Science and Engineering": 34,
+      "Column2": "HARISANKAR A",
+      "Column3": "harisankar_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 35,
+      "Column2": "HARISH RAAGAVENDAR S",
+      "Column3": "harish_0309"
+     },
+     {
+      "Department of Computer Science and Engineering": 36,
+      "Column2": "HARISIVAM J J",
+      "Column3": "harisivam_038"
+     },
+     {
+      "Department of Computer Science and Engineering": 37,
+      "Column2": "HEMRAJ KUMAR V S",
+      "Column3": "hemraj_348"
+     },
+     {
+      "Department of Computer Science and Engineering": 38,
+      "Column2": "HONIKA S",
+      "Column3": "honika_25"
+     },
+     {
+      "Department of Computer Science and Engineering": 39,
+      "Column2": "IJJU HEMANTH KUMAR",
+      "Column3": "hemu09"
+     },
+     {
+      "Department of Computer Science and Engineering": 40,
+      "Column2": "ILAMUGUNTHAN N",
+      "Column3": "ilamugunthan "
+     },
+     {
+      "Department of Computer Science and Engineering": 41,
+      "Column2": "INDHUMATHI B",
+      "Column3": "indhu_b123"
+     },
+     {
+      "Department of Computer Science and Engineering": 42,
+      "Column2": "INDIRA KUMAR A",
+      "Column3": "indiranjp_1"
+     },
+     {
+      "Department of Computer Science and Engineering": 43,
+      "Column2": "JAGAPREETHA B",
+      "Column3": "jagapreetha "
+     },
+     {
+      "Department of Computer Science and Engineering": 44,
+      "Column2": "JAYANTH N J",
+      "Column3": "jayanth_27"
+     },
+     {
+      "Department of Computer Science and Engineering": 45,
+      "Column2": "JEEVA JOTHI V M",
+      "Column3": "jeevajothi_123"
+     },
+     {
+      "Department of Computer Science and Engineering": 46,
+      "Column2": "KAARTHIKEYAN A R",
+      "Column3": "arkaarthikeyan"
+     },
+     {
+      "Department of Computer Science and Engineering": 47,
+      "Column2": "KAASIPRASANTH A",
+      "Column3": "kaasiprasantha"
+     },
+     {
+      "Department of Computer Science and Engineering": 48,
+      "Column2": "KANIPRIYA R",
+      "Column3": "kani_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 49,
+      "Column2": "KARTHEKEIAN K R",
+      "Column3": "karthe_444"
+     },
+     {
+      "Department of Computer Science and Engineering": 50,
+      "Column2": "KARTHICK MANICKAM R",
+      "Column3": "karthick_46"
+     },
+     {
+      "Department of Computer Science and Engineering": 51,
+      "Column2": "KARTHIK V",
+      "Column3": "karthik_407"
+     },
+     {
+      "Department of Computer Science and Engineering": 52,
+      "Column2": "KAVIN R",
+      "Column3": "kavin_054"
+     },
+     {
+      "Department of Computer Science and Engineering": 53,
+      "Column2": "KAVIN S",
+      "Column3": "kavin_s"
+     },
+     {
+      "Department of Computer Science and Engineering": 54,
+      "Column2": "KAVINKUMAR S",
+      "Column3": "kavinkumar_218"
+     },
+     {
+      "Department of Computer Science and Engineering": 55,
+      "Column2": "KEERTHANA M",
+      "Column3": "keerthu_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 56,
+      "Column2": "KEERTHANA P",
+      "Column3": "keerthu16"
+     },
+     {
+      "Department of Computer Science and Engineering": 57,
+      "Column2": "KAVYADHARSHINI T",
+      "Column3": "kavya_273"
+     },
+     {
+      "Department of Computer Science and Engineering": 58,
+      "Column2": "GURU PRASANTH P",
+      "Column3": "guru_4692"
+     },
+     {
+      "Department of Computer Science and Engineering": 59,
+      "Column2": "VIGNESH.S",
+      "Column3": "vignesh_280"
+     }
+    ],
+    "CSE B":[
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": 1,
+      "Column2": "KIRTHI VIGNESH G",
+      "Column3": "kirthi_vignesh",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 2,
+      "Column2": "KISHORE P",
+      "Column3": "kishore20cs060",
+      "leetcode":"P_Kishore"
+     },
+     {
+      "Department of Computer Science and Engineering": 3,
+      "Column2": "KISHOREVEL I V",
+      "Column3": "kishore_vel",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 4,
+      "Column2": "KOWSHIK G",
+      "Column3": "kowshik2003",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 5,
+      "Column2": "LOGESH KRISHNA M R",
+      "Column3": "logesh_krishna",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 6,
+      "Column2": "LOKESH B",
+      "Column3": "lokesh_64",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 7,
+      "Column2": "LOKESWARAN T",
+      "Column3": "lokeshwaran_05",
+      "leetcode":"lokesh8086"
+     },
+     {
+      "Department of Computer Science and Engineering": 8,
+      "Column2": "MADHAN KUMAR N",
+      "Column3": "madhankumar001",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 9,
+      "Column2": "MADHUMITHA P",
+      "Column3": "madhumitha8523",
+      "leetcode":"Madhu_8523"
+     },
+     {
+      "Department of Computer Science and Engineering": 10,
+      "Column2": "MANOJ KUMAR M",
+      "Column3": "manojkumar_m16",
+      "leetcode":"Manoj_07"
+     },
+     {
+      "Department of Computer Science and Engineering": 11,
+      "Column2": "MANORANJAN K",
+      "Column3": "mano_ranjan_12",
+      "leetcode":"Manoranjank24_-"
+     },
+     {
+      "Department of Computer Science and Engineering": 12,
+      "Column2": "MARIUSH RUFIN P",
+      "Column3": "mariush123",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 13,
+      "Column2": "MENAGA E",
+      "Column3": "menaga_9802",
+      "leetcode":"20CS071"
+     },
+     {
+      "Department of Computer Science and Engineering": 14,
+      "Column2": "MITHESH C K",
+      "Column3": "mitheshck",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 15,
+      "Column2": "MOHAN RAAM I P",
+      "Column3": "mohanraam21",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 16,
+      "Column2": "MOHANAPRASATH M",
+      "Column3": "mohan_09",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 17,
+      "Column2": "NAGARJUNAN G",
+      "Column3": "arj7402",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 18,
+      "Column2": "NAVANEETHAN R A",
+      "Column3": "navaneethan07",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 19,
+      "Column2": "NAVEEN R S",
+      "Column3": "naviirs20",
+      "leetcode":"rsnaveen77"
+     },
+     {
+      "Department of Computer Science and Engineering": 20,
+      "Column2": "NAVEEN RAJA S",
+      "Column3": "naveenraja078",
+      "leetcode":"Naveen20CS078"
+     },
+     {
+      "Department of Computer Science and Engineering": 21,
+      "Column2": "NIHAR PARVEEN A",
+      "Column3": "nihar_2103",
+      "leetcode":"nihar_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 22,
+      "Column2": "NIKHILESH S",
+      "Column3": "nikhil_066",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 23,
+      "Column2": "NITHYA M",
+      "Column3": "nithya_mohan06",
+      "leetcode":"nithyamohan906"
+     },
+     {
+      "Department of Computer Science and Engineering": 24,
+      "Column2": "OOVIYA M",
+      "Column3": "ooviya_07",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 25,
+      "Column2": "PAVITHRADEVI B",
+      "Column3": "pavithra_2003",
+      "leetcode":"pavithra_devi7"
+     },
+     {
+      "Department of Computer Science and Engineering": 26,
+      "Column2": "PRADEEP M",
+      "Column3": "pradeep1505",
+      "leetcode":"Pradeep_M_77"
+     },
+     {
+      "Department of Computer Science and Engineering": 27,
+      "Column2": "PRAKASH RAJ S",
+      "Column3": "prakashraj85",
+      "leetcode":"PRAKASHRAJ85"
+     },
+     {
+      "Department of Computer Science and Engineering": 28,
+      "Column2": "PRANESH C",
+      "Column3": "praneshc14",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 29,
+      "Column2": "PRANESH S",
+      "Column3": "pranesh22",
+      "leetcode":"pranesh_22"
+     },
+     {
+      "Department of Computer Science and Engineering": 30,
+      "Column2": "PRASANNA K M",
+      "Column3": "prasanna_1833",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 31,
+      "Column2": "PRATHIKSHA J",
+      "Column3": "prathi_03",
+      "leetcode":"Prathi_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 32,
+      "Column2": "PRAVEEN A",
+      "Column3": "praveen_0862",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 33,
+      "Column2": "PRAVEEN R",
+      "Column3": "praveen_816",
+      "leetcode":"R_Praveen"
+     },
+     {
+      "Department of Computer Science and Engineering": 34,
+      "Column2": "PRAVIN D",
+      "Column3": "dpravin_123",
+      "leetcode":"Pravin-123"
+     },
+     {
+      "Department of Computer Science and Engineering": 35,
+      "Column2": "PRAVINKUMAR S",
+      "Column3": "pravinkumar_s",
+      "leetcode":"spravinkumar9952"
+     },
+     {
+      "Department of Computer Science and Engineering": 36,
+      "Column2": "PREETHIKA P",
+      "Column3": "preethika20",
+      "leetcode":"preethika_P"
+     },
+     {
+      "Department of Computer Science and Engineering": 37,
+      "Column2": "PRIYA K",
+      "Column3": "priya_k_05",
+      "leetcode":"priyakamaraj"
+     },
+     {
+      "Department of Computer Science and Engineering": 38,
+      "Column2": "PRIYANKA K A",
+      "Column3": "priyanka_k_a",
+      "leetcode":"Priyanka_K_A"
+     },
+     {
+      "Department of Computer Science and Engineering": 39,
+      "Column2": "RAHUL RAJ R",
+      "Column3": "rahul_raj_r",
+      "leetcode":"RahulrajR"
+     },
+     {
+      "Department of Computer Science and Engineering": 40,
+      "Column2": "RAHUL T",
+      "Column3": "rahul_tcse",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 41,
+      "Column2": "RAJA GOWRIKA T",
+      "Column3": "raja_099",
+      "leetcode":"RAJAGOWRIKA_T"
+     },
+     {
+      "Department of Computer Science and Engineering": 42,
+      "Column2": "RAM DEEPAK P",
+      "Column3": "ram_deepak_100",
+      "leetcode":"ramdeepak33"
+     },
+     {
+      "Department of Computer Science and Engineering": 43,
+      "Column2": "RAMASUBRAMANYAM P",
+      "Column3": "ram1216",
+      "leetcode":"ramm2413"
+     },
+     {
+      "Department of Computer Science and Engineering": 44,
+      "Column2": "RAMMPRASHATH K",
+      "Column3": "prashathramm",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 45,
+      "Column2": "RANJITHKUMAR D",
+      "Column3": "ranjith_390",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 46,
+      "Column2": "RASHIKA K V",
+      "Column3": "rashika_0212",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 47,
+      "Column2": "REDITHALA ROHAN",
+      "Column3": "rohan_151",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 48,
+      "Column2": "RIHANABANU A",
+      "Column3": "rihana786",
+      "leetcode":"RIHANABANU"
+     },
+     {
+      "Department of Computer Science and Engineering": 49,
+      "Column2": "RUBIN KUMAR K",
+      "Column3": "rubinkumar_78",
+      "leetcode":"user9710zj"
+     },
+     {
+      "Department of Computer Science and Engineering": 50,
+      "Column2": "SABAREESWARAN G",
+      "Column3": "sabarees_123",
+      "leetcode":"Sabari2309"
+     },
+     {
+      "Department of Computer Science and Engineering": 51,
+      "Column2": "SAI SIDDHARTH",
+      "Column3": "sai_sid_2708",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 52,
+      "Column2": "SAKTHIMAHESWARAN U S",
+      "Column3": "sakthius_002",
+      "leetcode":"Sakthimaheswaran_2002"
+     },
+     {
+      "Department of Computer Science and Engineering": 53,
+      "Column2": "SANJAY G S",
+      "Column3": "sanjay_400",
+      "leetcode":"sanjudddd400"
+     },
+     {
+      "Department of Computer Science and Engineering": 54,
+      "Column2": "SANJAY N",
+      "Column3": "sanjay_n",
+      "leetcode":"Sanjay_N_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 55,
+      "Column2": "SANJAY R",
+      "Column3": "sanjay_r3000",
+      "leetcode":" "
+     },
+     {
+      "Department of Computer Science and Engineering": 56,
+      "Column2": "SANJEEV CHANDRAN M",
+      "Column3": "sanjeev_223",
+      "leetcode":"Sanjeevchandran"
+     },
+     {
+      "Department of Computer Science and Engineering": 57,
+      "Column2": "SANJITH R K",
+      "Column3": "sanjith_16",
+      "leetcode":"Sanjith16"
+     }
+     
+    ],
+    "CSE C":[
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Engineering": 1,
+      "Column2": "SANTHIYAA B",
+      "Column3": "santhiyaa_029"
+     },
+     {
+      "Department of Computer Science and Engineering": 2,
+      "Column2": "SARAN G",
+      "Column3": "saran_3"
+     },
+     {
+      "Department of Computer Science and Engineering": 3,
+      "Column2": "SARAVANAN B",
+      "Column3": "saravanan_007b"
+     },
+     {
+      "Department of Computer Science and Engineering": 4,
+      "Column2": "SARVESH V V",
+      "Column3": "sarveshh07"
+     },
+     {
+      "Department of Computer Science and Engineering": 5,
+      "Column2": "SASIREKA S",
+      "Column3": "sasireka120"
+     },
+     {
+      "Department of Computer Science and Engineering": 6,
+      "Column2": "SATHIYABANU R",
+      "Column3": "sathiya_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 7,
+      "Column2": "SELVANANDHINI A",
+      "Column3": "nandhini_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 8,
+      "Column2": "SELVENDHIRAN R",
+      "Column3": "selva_17"
+     },
+     {
+      "Department of Computer Science and Engineering": 9,
+      "Column2": "SENTHAMIZHARASU M S",
+      "Column3": "arasu_ms_16"
+     },
+     {
+      "Department of Computer Science and Engineering": 10,
+      "Column2": "SHAKTHI KIRAN R",
+      "Column3": "shakthi_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 11,
+      "Column2": "SHANMUGA PRIYA R",
+      "Column3": "priya_126"
+     },
+     {
+      "Department of Computer Science and Engineering": 12,
+      "Column2": "SHAVAL KHAN M",
+      "Column3": "shaval_7"
+     },
+     {
+      "Department of Computer Science and Engineering": 13,
+      "Column2": "SHOBANA M",
+      "Column3": "shobana_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 14,
+      "Column2": "SHREE NARAYANAN M",
+      "Column3": "narayanan_129"
+     },
+     {
+      "Department of Computer Science and Engineering": 15,
+      "Column2": "SHREE RAMANAA M",
+      "Column3": "ramanaa_130"
+     },
+     {
+      "Department of Computer Science and Engineering": 16,
+      "Column2": "SHRUTHI G",
+      "Column3": "shruthi1218"
+     },
+     {
+      "Department of Computer Science and Engineering": 17,
+      "Column2": "SIVANARAYAN J",
+      "Column3": "sivanarayan"
+     },
+     {
+      "Department of Computer Science and Engineering": 18,
+      "Column2": "SNEHA S",
+      "Column3": "sneha512"
+     },
+     {
+      "Department of Computer Science and Engineering": 19,
+      "Column2": "SOORJI MARTINA K",
+      "Column3": "soorji"
+     },
+     {
+      "Department of Computer Science and Engineering": 20,
+      "Column2": "SOUNDARYA V N",
+      "Column3": "soundarya_1710"
+     },
+     {
+      "Department of Computer Science and Engineering": 21,
+      "Column2": "SOWNTHARYA K",
+      "Column3": "sowntharya_30"
+     },
+     {
+      "Department of Computer Science and Engineering": 22,
+      "Column2": "SREE GOUSHIK RAJAA R",
+      "Column3": "bloodlust"
+     },
+     {
+      "Department of Computer Science and Engineering": 23,
+      "Column2": "SREESHARAN N",
+      "Column3": "sreesharan987"
+     },
+     {
+      "Department of Computer Science and Engineering": 24,
+      "Column2": "SRI HARI K R",
+      "Column3": "bugmesti_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 25,
+      "Column2": "SRIMATHI G",
+      "Column3": "srimathi_1904"
+     },
+     {
+      "Department of Computer Science and Engineering": 26,
+      "Column2": "SRINITHI R",
+      "Column3": "srinithi_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 27,
+      "Column2": "STEPHEN KUMAR K",
+      "Column3": "steve_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 28,
+      "Column2": "SUBANANTHITHA K",
+      "Column3": "suba07"
+     },
+     {
+      "Department of Computer Science and Engineering": 29,
+      "Column2": "SUBHAHARINI S",
+      "Column3": "subhaharini_22"
+     },
+     {
+      "Department of Computer Science and Engineering": 30,
+      "Column2": "SUGANTHI M",
+      "Column3": "suganthi_08"
+     },
+     {
+      "Department of Computer Science and Engineering": 31,
+      "Column2": "SUGAVANAESH S",
+      "Column3": "sugavanaesh"
+     },
+     {
+      "Department of Computer Science and Engineering": 32,
+      "Column2": "SUGUMAR A",
+      "Column3": "sugumar_147"
+     },
+     {
+      "Department of Computer Science and Engineering": 33,
+      "Column2": "SUJITH SAIRAM M",
+      "Column3": "sujith_03"
+     },
+     {
+      "Department of Computer Science and Engineering": 34,
+      "Column2": "SURJITHRAJA A",
+      "Column3": "surjith_07"
+     },
+     {
+      "Department of Computer Science and Engineering": 35,
+      "Column2": "SUTHARSUN P D",
+      "Column3": "suthar_1616"
+     },
+     {
+      "Department of Computer Science and Engineering": 36,
+      "Column2": "SWETHA G",
+      "Column3": "swetha_31"
+     },
+     {
+      "Department of Computer Science and Engineering": 37,
+      "Column2": "TAMILSELVAN M",
+      "Column3": "tamilselvan_02"
+     },
+     {
+      "Department of Computer Science and Engineering": 38,
+      "Column2": "TAMILSELVI S",
+      "Column3": "tamilselvi_53"
+     },
+     {
+      "Department of Computer Science and Engineering": 39,
+      "Column2": "THARUN KUMAR C",
+      "Column3": "tharunkumarc"
+     },
+     {
+      "Department of Computer Science and Engineering": 40,
+      "Column2": "VANITHA A",
+      "Column3": "vanitha_a2002"
+     },
+     {
+      "Department of Computer Science and Engineering": 41,
+      "Column2": "VARSHIKHA N R",
+      "Column3": "varshikha"
+     },
+     {
+      "Department of Computer Science and Engineering": 42,
+      "Column2": "VARSHINI B",
+      "Column3": "varshini_325"
+     },
+     {
+      "Department of Computer Science and Engineering": 43,
+      "Column2": "VARUNPRASATH M",
+      "Column3": "varun_2527"
+     },
+     {
+      "Department of Computer Science and Engineering": 44,
+      "Column2": "VELLANKI SHAINI",
+      "Column3": "shaini_146"
+     },
+     {
+      "Department of Computer Science and Engineering": 45,
+      "Column2": "VIDDHYA J",
+      "Column3": "viddhya_0204"
+     },
+     {
+      "Department of Computer Science and Engineering": 46,
+      "Column2": "VIDHYA BHARATHI V",
+      "Column3": "bharathi_718"
+     },
+     {
+      "Department of Computer Science and Engineering": 47,
+      "Column2": "VIDHYA N",
+      "Column3": "vidhya_18"
+     },
+     {
+      "Department of Computer Science and Engineering": 48,
+      "Column2": "VIGNESHWARAN B",
+      "Column3": "vicky03"
+     },
+     {
+      "Department of Computer Science and Engineering": 49,
+      "Column2": "VIGNESHWARAN R",
+      "Column3": "vignesh_1045"
+     },
+     {
+      "Department of Computer Science and Engineering": 50,
+      "Column2": "VIJAY V",
+      "Column3": "vijay_235"
+     },
+     {
+      "Department of Computer Science and Engineering": 51,
+      "Column2": "VINEETH K",
+      "Column3": "r1ck_s4ncherz"
+     },
+     {
+      "Department of Computer Science and Engineering": 52,
+      "Column2": "VINISHA M",
+      "Column3": "vinisha_15"
+     },
+     {
+      "Department of Computer Science and Engineering": 53,
+      "Column2": "VINUDHARSHINI R",
+      "Column3": "vinu_2003"
+     },
+     {
+      "Department of Computer Science and Engineering": 54,
+      "Column2": "VISHAL KHUMAR R",
+      "Column3": "vishalkhumar_2"
+     },
+     {
+      "Department of Computer Science and Engineering": 55,
+      "Column2": "VISHNUPRABHU R",
+      "Column3": "vishnu_1708"
+     },
+     {
+      "Department of Computer Science and Engineering": 56,
+      "Column2": "YASWANTH KUMAR S",
+      "Column3": "yaswanth_0817"
+     },
+     {
+      "Department of Computer Science and Engineering": 57,
+      "Column2": "YAZHINI A",
+      "Column3": "yazhini_5724"
+     },
+     {
+      "Department of Computer Science and Engineering": 58,
+      "Column2": "PRASANNA G",
+      "Column3": "prasanna_54321"
+     },
+     {
+      "Department of Computer Science and Engineering": 59,
+      "Column2": "SANJEEVA KUMAR M",
+      "Column3": "sanjeev_306"
+     },
+     {
+      "Department of Computer Science and Engineering": 60,
+      "Column2": "TEJASHWIN",
+      "Column3": "tejash_21"
+     },
+     {
+      "Department of Computer Science and Engineering": 61,
+      "Column2": "G.NAVEEN KUMAR",
+      "Column3": "Naveen_909"
+     }
+    ],
+    "IT":[
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Information Technology": 1,
+      "Column2": "ABHIMAN K S",
+      "Column3": "abhiman_ks"
+     },
+     {
+      "Department of Information Technology": 2,
+      "Column2": "ABIRAM R",
+      "Column3": "abiram69r"
+     },
+     {
+      "Department of Information Technology": 3,
+      "Column2": "AISHWARYA R",
+      "Column3": "aishwarya_12"
+     },
+     {
+      "Department of Information Technology": 4,
+      "Column2": "ARUN PRASATH N",
+      "Column3": "arun070702"
+     },
+     {
+      "Department of Information Technology": 5,
+      "Column2": "ARUNKUMAR T",
+      "Column3": "arunkumar_1221"
+     },
+     {
+      "Department of Information Technology": 6,
+      "Column2": "ASHLIN VINCENT",
+      "Column3": "ashlin_2852"
+     },
+     {
+      "Department of Information Technology": 7,
+      "Column2": "ASHWIN B",
+      "Column3": "ashwin_it_007"
+     },
+     {
+      "Department of Information Technology": 8,
+      "Column2": "BHOOMISH R",
+      "Column3": "bhoomish_2003"
+     },
+     {
+      "Department of Information Technology": 9,
+      "Column2": "BOOBALAN E",
+      "Column3": "boobalan_13"
+     },
+     {
+      "Department of Information Technology": 10,
+      "Column2": "CHANDURU P",
+      "Column3": "chanduru_08"
+     },
+     {
+      "Department of Information Technology": 11,
+      "Column2": "DHARSHINI B",
+      "Column3": "dharshini_05"
+     },
+     {
+      "Department of Information Technology": 12,
+      "Column2": "GANESH KUMAR R",
+      "Column3": "ganesh_82-"
+     },
+     {
+      "Department of Information Technology": 13,
+      "Column2": "GANESH V T",
+      "Column3": "ganesh_165"
+     },
+     {
+      "Department of Information Technology": 14,
+      "Column2": "GURUPRASATH M",
+      "Column3": "guru4257"
+     },
+     {
+      "Department of Information Technology": 15,
+      "Column2": "HARIHARAN R",
+      "Column3": "hari_rk"
+     },
+     {
+      "Department of Information Technology": 16,
+      "Column2": "HARINI B",
+      "Column3": "harini_2"
+     },
+     {
+      "Department of Information Technology": 17,
+      "Column2": "HARIPRASANTH S",
+      "Column3": "hari_1341"
+     },
+     {
+      "Department of Information Technology": 18,
+      "Column2": "JANANI M",
+      "Column3": "janani205"
+     },
+     {
+      "Department of Information Technology": 19,
+      "Column2": "KARTHIKRAJ J",
+      "Column3": "karthikraj_j29"
+     },
+     {
+      "Department of Information Technology": 20,
+      "Column2": "KASIVISWANATH M S",
+      "Column3": "kasi_6113"
+     },
+     {
+      "Department of Information Technology": 21,
+      "Column2": "KAVIYA E",
+      "Column3": "kaviya_07"
+     },
+     {
+      "Department of Information Technology": 22,
+      "Column2": "KOWSALYA S",
+      "Column3": "kowsalya_2219"
+     },
+     {
+      "Department of Information Technology": 23,
+      "Column2": "MADHU VARSHINI M",
+      "Column3": "madhu_002"
+     },
+     {
+      "Department of Information Technology": 24,
+      "Column2": "MANGAI A",
+      "Column3": "mangai_07"
+     },
+     {
+      "Department of Information Technology": 25,
+      "Column2": "MOHAMED AFSAR I",
+      "Column3": "afsar_27"
+     },
+     {
+      "Department of Information Technology": 26,
+      "Column2": "NAVEEN M",
+      "Column3": "naveen3007"
+     },
+     {
+      "Department of Information Technology": 27,
+      "Column2": "PALANI MURUGAN A",
+      "Column3": "palani0047"
+     },
+     {
+      "Department of Information Technology": 28,
+      "Column2": "POOJA SRI R",
+      "Column3": "pooja_sri_r"
+     },
+     {
+      "Department of Information Technology": 29,
+      "Column2": "PRADEEPKUMAR V S",
+      "Column3": "pradeep_029"
+     },
+     {
+      "Department of Information Technology": 30,
+      "Column2": "PRASANNA A",
+      "Column3": "praz_18"
+     },
+     {
+      "Department of Information Technology": 31,
+      "Column2": "PRIYANGABABY D",
+      "Column3": "priyanga_14"
+     },
+     {
+      "Department of Information Technology": 32,
+      "Column2": "PRIYANKA J",
+      "Column3": "priya_183"
+     },
+     {
+      "Department of Information Technology": 33,
+      "Column2": "RAHUL K",
+      "Column3": "rahulkumarkjry"
+     },
+     {
+      "Department of Information Technology": 34,
+      "Column2": "RAMANAN V",
+      "Column3": "ramananstark "
+     },
+     {
+      "Department of Information Technology": 35,
+      "Column2": "RITHIK H B",
+      "Column3": "rithik_bhojan"
+     },
+     {
+      "Department of Information Technology": 36,
+      "Column2": "SADHANA K",
+      "Column3": "sadhana_1312"
+     },
+     {
+      "Department of Information Technology": 37,
+      "Column2": "SAI SANJAY RAJ J",
+      "Column3": "sanjay_1737"
+     },
+     {
+      "Department of Information Technology": 38,
+      "Column2": "SANJAI RAGUL M",
+      "Column3": "sanjairagul1122"
+     },
+     {
+      "Department of Information Technology": 39,
+      "Column2": "SARAN B",
+      "Column3": "saran_77"
+     },
+     {
+      "Department of Information Technology": 40,
+      "Column2": "SELVAKUMAR A",
+      "Column3": "selvakumar_211"
+     },
+     {
+      "Department of Information Technology": 41,
+      "Column2": "SEYAD REESMAN T",
+      "Column3": "reesma_11"
+     },
+     {
+      "Department of Information Technology": 42,
+      "Column2": "SIVAPRASATH U",
+      "Column3": "sivaprasath_26"
+     },
+     {
+      "Department of Information Technology": 43,
+      "Column2": "SOWMIYA R",
+      "Column3": "sowmiya_43"
+     },
+     {
+      "Department of Information Technology": 44,
+      "Column2": "SREEJISHA S",
+      "Column3": "sreejisha_s"
+     },
+     {
+      "Department of Information Technology": 45,
+      "Column2": "SRI VARSINI S K",
+      "Column3": "sri_varsini_21"
+     },
+     {
+      "Department of Information Technology": 46,
+      "Column2": "SRIPAD P K",
+      "Column3": "sripadpk"
+     },
+     {
+      "Department of Information Technology": 47,
+      "Column2": "SUBHASRI S",
+      "Column3": "subhasri047"
+     },
+     {
+      "Department of Information Technology": 48,
+      "Column2": "SUDHARSAN D S",
+      "Column3": "sudharsan_d_s"
+     },
+     {
+      "Department of Information Technology": 49,
+      "Column2": "SUDHIKSHA A",
+      "Column3": "sudhiksha_2830"
+     },
+     {
+      "Department of Information Technology": 50,
+      "Column2": "SUGANYA P",
+      "Column3": "suganya_p"
+     },
+     {
+      "Department of Information Technology": 51,
+      "Column2": "SUPRIYA K",
+      "Column3": "supriya_2907"
+     },
+     {
+      "Department of Information Technology": 52,
+      "Column2": "SUSHMASHREE T S",
+      "Column3": "sushmashree123"
+     },
+     {
+      "Department of Information Technology": 53,
+      "Column2": "SWAGAT TEEJORAM R",
+      "Column3": "swagat_53"
+     },
+     {
+      "Department of Information Technology": 54,
+      "Column2": "SWATHI M",
+      "Column3": "swathi_17"
+     },
+     {
+      "Department of Information Technology": 55,
+      "Column2": "SWETHA K",
+      "Column3": "swethak_01"
+     },
+     {
+      "Department of Information Technology": 56,
+      "Column2": "TAPAN K R",
+      "Column3": "Tapan2001"
+     },
+     {
+      "Department of Information Technology": 57,
+      "Column2": "VARSHA S",
+      "Column3": "varsha_s30"
+     },
+     {
+      "Department of Information Technology": 58,
+      "Column2": "VISHNUVARADHAN D",
+      "Column3": "vishnu27902"
+     }
+    ],
+    "AIDS":[
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 1,
+      "Column2": "ABISHEK VENU VENKAT N",
+      "Column3": "abishek_vvn"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 2,
+      "Column2": "AGILAN",
+      "Column3": "agilan_1102"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 3,
+      "Column2": "AJAY A",
+      "Column3": "ajay_211"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 4,
+      "Column2": "AMITHA M",
+      "Column3": "\namitha_m"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 5,
+      "Column2": "ARUNACHALAM K",
+      "Column3": "arunachalamk05"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 6,
+      "Column2": "DEEPAK SARAN V S",
+      "Column3": "deepak_saran"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 7,
+      "Column2": "DHAANUS K",
+      "Column3": "dhaanus_k"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 8,
+      "Column2": "FARHAN AHMED KHAN A",
+      "Column3": "farhankhan_7"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 9,
+      "Column2": "GOHULPRASATH T",
+      "Column3": "gohul_prasath"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 10,
+      "Column2": "HARIHARAN G",
+      "Column3": "hari2003"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 11,
+      "Column2": "HARISH M",
+      "Column3": "harish_m_28"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 12,
+      "Column2": "HARISH RAGAVENDRAN A",
+      "Column3": "harishragav_17"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 13,
+      "Column2": "KARNA P",
+      "Column3": "karna_p"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 14,
+      "Column2": "KAVYA A",
+      "Column3": "kavya_014"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 15,
+      "Column2": "KONAKANDLA ADITYA ASHRITH",
+      "Column3": "ashrith_99"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 16,
+      "Column2": "KUNGUMA SAKTHIVEL K",
+      "Column3": "manish9095"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 17,
+      "Column2": "MADHUMITHA S",
+      "Column3": "s_madhumitha  "
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 18,
+      "Column2": "MOULISWARAN R",
+      "Column3": "mouliswaran_66"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 19,
+      "Column2": "NAVEEN V",
+      "Column3": "naveen_1904"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 20,
+      "Column2": "PRADHEESH KUMAR S",
+      "Column3": "pradheesh26"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 21,
+      "Column2": "PRATHAP E",
+      "Column3": "prathap_070301"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 22,
+      "Column2": "PREETHIE K",
+      "Column3": "preethie_k"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 23,
+      "Column2": "RANJITH R",
+      "Column3": "ranjith_r"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 24,
+      "Column2": "SANTHOSH M",
+      "Column3": "sandy_m"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 25,
+      "Column2": "SANTHOSH T",
+      "Column3": "santhosht26"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 26,
+      "Column2": "SARAVANAA G",
+      "Column3": "saravanaa_02"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 27,
+      "Column2": "SRINIVASA N",
+      "Column3": "srini2308"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 28,
+      "Column2": "SUBITSHA M",
+      "Column3": "subitsha01"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 29,
+      "Column2": "SUDARSSAN N",
+      "Column3": "nsudarssan"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 30,
+      "Column2": "SUMAIYA FATHIMA I",
+      "Column3": "sumaiya_fathim"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 31,
+      "Column2": "SUMITHRA M",
+      "Column3": "sumithra_m"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 32,
+      "Column2": "SURENDRA P",
+      "Column3": "surendra_p"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 33,
+      "Column2": "SUSHMA R",
+      "Column3": "sushma_r"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 34,
+      "Column2": "SWETHA S",
+      "Column3": "swetha026"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 35,
+      "Column2": "VARSHA R M",
+      "Column3": "varsha_rm"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 36,
+      "Column2": "VASANTH G",
+      "Column3": "vasanth_g"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 37,
+      "Column2": "VIDYA K",
+      "Column3": "vidyak_02"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 38,
+      "Column2": "VISHNU M",
+      "Column3": "vishnu_39"
+     },
+     {
+      "Department of Artificial Intelligence and Data Science": 39,
+      "Column2": "VISNUPRIYA K V",
+      "Column3": "visnupriya_kv"
+     }
+    ],
+    "CSBS":[
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": "S.No",
+      "Column2": "Student Name",
+      "Column3": "Code Chef User ID"
+     },
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": null,
+      "Column2": null,
+      "Column3": null
+     },
+     {
+      "Department of Computer Science and Business Systems": 1,
+      "Column2": "ABIRAMI S",
+      "Column3": "abirami35"
+     },
+     {
+      "Department of Computer Science and Business Systems": 2,
+      "Column2": "AJAY K",
+      "Column3": "ajay005"
+     },
+     {
+      "Department of Computer Science and Business Systems": 3,
+      "Column2": "AKASH K",
+      "Column3": "akash_84892"
+     },
+     {
+      "Department of Computer Science and Business Systems": 4,
+      "Column2": "AMRESH M",
+      "Column3": "amresh2020"
+     },
+     {
+      "Department of Computer Science and Business Systems": 5,
+      "Column2": "AMRITHA P",
+      "Column3": "amirtha1312"
+     },
+     {
+      "Department of Computer Science and Business Systems": 6,
+      "Column2": "ANANTH G",
+      "Column3": "ananth_333"
+     },
+     {
+      "Department of Computer Science and Business Systems": 7,
+      "Column2": "ANUVINDH M",
+      "Column3": "anuvindh_m"
+     },
+     {
+      "Department of Computer Science and Business Systems": 8,
+      "Column2": "DHANU SHREE S S",
+      "Column3": "dhanu0515"
+     },
+     {
+      "Department of Computer Science and Business Systems": 9,
+      "Column2": "GOKUL SUNDAR U",
+      "Column3": "gs_16"
+     },
+     {
+      "Department of Computer Science and Business Systems": 10,
+      "Column2": "GOMATHISANKAR V",
+      "Column3": "vgs010"
+     },
+     {
+      "Department of Computer Science and Business Systems": 11,
+      "Column2": "GOWSHICK H",
+      "Column3": "gowshickh"
+     },
+     {
+      "Department of Computer Science and Business Systems": 12,
+      "Column2": "HARDIKA S",
+      "Column3": "hardika_8301"
+     },
+     {
+      "Department of Computer Science and Business Systems": 13,
+      "Column2": "JAYASUDHA C",
+      "Column3": "jayasudha_c_03"
+     },
+     {
+      "Department of Computer Science and Business Systems": 14,
+      "Column2": "JYOTHIKAMALESH S",
+      "Column3": "Jyoo"
+     },
+     {
+      "Department of Computer Science and Business Systems": 15,
+      "Column2": "JYOTHIR B A",
+      "Column3": "jyothir1809"
+     },
+     {
+      "Department of Computer Science and Business Systems": 16,
+      "Column2": "KEERTHANA S",
+      "Column3": "keerthusj"
+     },
+     {
+      "Department of Computer Science and Business Systems": 17,
+      "Column2": "KISHORE R E",
+      "Column3": "kishore_072003"
+     },
+     {
+      "Department of Computer Science and Business Systems": 18,
+      "Column2": "LOGANATHAN S",
+      "Column3": "loganathan01"
+     },
+     {
+      "Department of Computer Science and Business Systems": 19,
+      "Column2": "MITHUN RAJ M",
+      "Column3": "mithunraj_123"
+     },
+     {
+      "Department of Computer Science and Business Systems": 20,
+      "Column2": "MOULIESHWARAN K",
+      "Column3": "mouliesh_07"
+     },
+     {
+      "Department of Computer Science and Business Systems": 21,
+      "Column2": "MUKESH KANNA R",
+      "Column3": "mukesh_rmk21"
+     },
+     {
+      "Department of Computer Science and Business Systems": 22,
+      "Column2": "MUTHURAMAN P",
+      "Column3": "codea2z_ram"
+     },
+     {
+      "Department of Computer Science and Business Systems": 23,
+      "Column2": "NIMESH RAJAN D",
+      "Column3": "nimeshrajan"
+     },
+     {
+      "Department of Computer Science and Business Systems": 24,
+      "Column2": "NITHISH KUMAR I",
+      "Column3": "nithish_sece6"
+     },
+     {
+      "Department of Computer Science and Business Systems": 25,
+      "Column2": "PRAVEEN R",
+      "Column3": "Praveen_2701"
+     },
+     {
+      "Department of Computer Science and Business Systems": 26,
+      "Column2": "PRITHIVI RAJ P",
+      "Column3": "prithivi_raj10"
+     },
+     {
+      "Department of Computer Science and Business Systems": 27,
+      "Column2": "RAJASANTHOSH M",
+      "Column3": "rajasanthosh18"
+     },
+     {
+      "Department of Computer Science and Business Systems": 28,
+      "Column2": "RANJANA E",
+      "Column3": "ranju164"
+     },
+     {
+      "Department of Computer Science and Business Systems": 29,
+      "Column2": "RAVIBHAARATI S P S",
+      "Column3": "ravibhaarati33"
+     },
+     {
+      "Department of Computer Science and Business Systems": 30,
+      "Column2": "SANJAI KUMAR S S",
+      "Column3": "sanjaikumarsk"
+     },
+     {
+      "Department of Computer Science and Business Systems": 31,
+      "Column2": "SANJAI M B",
+      "Column3": "sanjaimb"
+     },
+     {
+      "Department of Computer Science and Business Systems": 32,
+      "Column2": "SANKEERTHAN K",
+      "Column3": "sankeerthan321"
+     },
+     {
+      "Department of Computer Science and Business Systems": 33,
+      "Column2": "SANTHOSH BABU B",
+      "Column3": "Santhosh1110"
+     },
+     {
+      "Department of Computer Science and Business Systems": 34,
+      "Column2": "SANTHOSH KUMAR G",
+      "Column3": "santhosh_06"
+     },
+     {
+      "Department of Computer Science and Business Systems": 35,
+      "Column2": "SASIPRAKASH M K",
+      "Column3": "sasiprakash14"
+     },
+     {
+      "Department of Computer Science and Business Systems": 36,
+      "Column2": "SATHISH C",
+      "Column3": "sathish_33"
+     },
+     {
+      "Department of Computer Science and Business Systems": 37,
+      "Column2": "SELVAKUMAR T",
+      "Column3": "selvakumar"
+     },
+     {
+      "Department of Computer Science and Business Systems": 38,
+      "Column2": "SHALINI A",
+      "Column3": "Shalini_2002"
+     },
+     {
+      "Department of Computer Science and Business Systems": 39,
+      "Column2": "SHRI SURIYA P",
+      "Column3": "Shri_2303"
+     },
+     {
+      "Department of Computer Science and Business Systems": 40,
+      "Column2": "SOWMIYA M",
+      "Column3": "sowmiya_csbs"
+     },
+     {
+      "Department of Computer Science and Business Systems": 41,
+      "Column2": "SOWNTHARIYA M",
+      "Column3": "sown1911"
+     },
+     {
+      "Department of Computer Science and Business Systems": 42,
+      "Column2": "STALIN A",
+      "Column3": "stalin2020"
+     },
+     {
+      "Department of Computer Science and Business Systems": 43,
+      "Column2": "SUNDHARABALAJI K L",
+      "Column3": "pythondev_1"
+     },
+     {
+      "Department of Computer Science and Business Systems": 44,
+      "Column2": "VASANTH R",
+      "Column3": "vasanth_147"
+     },
+     {
+      "Department of Computer Science and Business Systems": 45,
+      "Column2": "VASANTHARAJAN V",
+      "Column3": "vasantha2020"
+     },
+     {
+      "Department of Computer Science and Business Systems": 46,
+      "Column2": "VINUJA M",
+      "Column3": "vinuja_24"
+     },
+     {
+      "Department of Computer Science and Business Systems": 47,
+      "Column2": "RANJITHA M",
+      "Column3": "Ranjiranjitha"
+     },
+     {
+      "Department of Computer Science and Business Systems": 48,
+      "Column2": "ANAND KUMAR K",
+      "Column3": "anandkumar02"
+     }
+    ]
+    }

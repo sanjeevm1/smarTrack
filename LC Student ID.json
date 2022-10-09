@@ -1,0 +1,2767 @@
+{
+"CSE A":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "ABBINAVU T",
+  "Column8": "ABBINAVU T"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "ABHI NIVESH R",
+  "Column8": "Abhi_Nivesh_R"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "AISHWARYA S",
+  "Column8": "AISHWARYA_SELVAMURUGAN"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "AKSHAY KRISHNA N",
+  "Column8": "Akshay_Krishna"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "ANKITHA V S",
+  "Column8": "Ankitha7"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "ARTHI V",
+  "Column8": "20CS006"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "ARUN KUMAR P",
+  "Column8": "Arun_Kumar_P"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "ASHISH SINGH",
+  "Column8": "ashish_singh_20cs008"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "ASHWITHA NOBLE P",
+  "Column8": "Ashwitha_Noble"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "BAGAVATHI ANANDHAN E",
+  "Column8": "AnandEswaran"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "BALAJIRAM N",
+  "Column8": "user2849eC"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "BALAMURUGAN K",
+  "Column8": "user4029ok"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "BHARATH KUMAR R",
+  "Column8": "Bharathkumar_968"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "BLESSED JEBERSON J Q",
+  "Column8": "Blessed_Jeberson"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "CHARAN SRI KRISHNA S",
+  "Column8": "charansri795"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "CHINMAI DEEPIKA M",
+  "Column8": "Chinmai_03"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "DEVAMITRA T",
+  "Column8": "Devamitra_T"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "DHANUSH B",
+  "Column8": "user4297oq"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "DHANUSHYA R",
+  "Column8": "DhanushyaR"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "DHARANI P",
+  "Column8": "20cs021"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "DINESH P",
+  "Column8": "DineshPraba"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "DIVAKAR V S",
+  "Column8": "20CS023"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "DIVYA PRIYA S",
+  "Column8": "DIVYAPRIYA_S"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "ESHA MALAVIKA V S",
+  "Column8": "eshamalavika"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "FARHEEN A S",
+  "Column8": "Farheen_A_S"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "GAYATHRI M",
+  "Column8": "20CS027"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "GEETHANJALI G",
+  "Column8": "Geethanjali _G"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "GNANA JOTHI T",
+  "Column8": "GNANAJOTHI"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "GOKUL S",
+  "Column8": "Gokulcsr"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "GOLUGURI YASWANTH DURGA REDDY",
+  "Column8": "yaswanth1825"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "GOVINDHA RAMANATHAN S",
+  "Column8": "user5780Js"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "GOWREESH A M",
+  "Column8": "GOWREESH_A_M"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "GOWSHIKAN S",
+  "Column8": "Gowshikan_S"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "HARISANKAR A",
+  "Column8": "hari_03"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "HARISH RAAGAVENDAR S",
+  "Column8": "harishragavendar"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "HARISIVAM J J",
+  "Column8": "harisivam_38"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "HEMRAJ KUMAR V S",
+  "Column8": "Hems348"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "HONIKA S",
+  "Column8": "honi_ka_02"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "IJJU HEMANTH KUMAR",
+  "Column8": "ijjuhemanthkumar"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "ILAMUGUNTHAN N",
+  "Column8": "user5864sj"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "INDHUMATHI B",
+  "Column8": "indhumathi_b"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "INDIRA KUMAR A",
+  "Column8": "indiranJ0"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "JAGAPREETHA B",
+  "Column8": "JAGAPREETHA_B"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "JAYANTH N J",
+  "Column8": "Jayanth_N_J"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "JEEVA JOTHI V M",
+  "Column8": "Jeeva_jothi"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "KAARTHIKEYAN A R",
+  "Column8": "A_R_KAARTHIKEYAN"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "KAASIPRASANTH A",
+  "Column8": "KAASIPRASANTH_A"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "KANIPRIYA R",
+  "Column8": "kani_03"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "KARTHEKEIAN K R",
+  "Column8": "karthekeian"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "KARTHICK MANICKAM R",
+  "Column8": "User3657pi"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "KARTHIK V",
+  "Column8": "Karthikv27"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "KAVIN R",
+  "Column8": "Kavin-R"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "KAVIN S",
+  "Column8": "KAVIN_S"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "KAVINKUMAR S",
+  "Column8": "kavinkumar_s"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "KEERTHANA M",
+  "Column8": "user4153n"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "KEERTHANA P",
+  "Column8": "Keerthana P"
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "GNANA SEKAR R",
+  "Column8": "Gnanasekar_R"
+ },
+ {
+  "Leetcode Student Id Details ": 58,
+  "Column7": "GURU PRASANTH P",
+  "Column8": "GURU_PRASANTH_P_CSE_A"
+ },
+ {
+  "Leetcode Student Id Details ": 59,
+  "Column7": "KAVYADHARSHINI T",
+  "Column8": "kavyadharshini_T"
+ },
+ {
+  "Leetcode Student Id Details ": 60,
+  "Column7": "VIGNESH S",
+  "Column8": "NA"
+ }
+],
+"CSE B":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "KIRTHI VIGNESH G",
+  "Column8": "kirthi_vignesh_g"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "KISHORE P",
+  "Column8": "P_Kishore"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "KISHOREVEL I V",
+  "Column8": "vel_02"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "KOWSHIK G",
+  "Column8": "kowshik2003"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "LOGESH KRISHNA M R",
+  "Column8": "Logesh__Krishna_M_R"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "LOKESH B",
+  "Column8": "Lokesh20CS064"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "LOKESWARAN T",
+  "Column8": "Lokesh"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "MADHAN KUMAR N",
+  "Column8": "madhankumar01"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "MADHUMITHA P",
+  "Column8": "Madhu_8523"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "MANOJ KUMAR M",
+  "Column8": "Manoj_07"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "MANORANJAN K",
+  "Column8": "Manoranjank24_-"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "MARIUSH RUFIN P",
+  "Column8": "Mariush123"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "MENAGA E",
+  "Column8": "20CS071"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "MITHESH C K",
+  "Column8": "mitheshck1"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "MOHAN RAAM I P",
+  "Column8": "Mohanraam21"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "MOHANAPRASATH M",
+  "Column8": "mohan_09"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "NAGARJUNAN G",
+  "Column8": "Arj742"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "NAVANEETHAN R A",
+  "Column8": "20CS076"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "NAVEEN R S",
+  "Column8": "NaveenRS20"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "NAVEEN RAJA S",
+  "Column8": "Naveen20CS078"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "NIHAR PARVEEN A",
+  "Column8": "nihar_2003"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "NIKHILESH S",
+  "Column8": "nikhilnikhil"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "NITHYA M",
+  "Column8": "nithyamohan906"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "OOVIYA M",
+  "Column8": "Ooviya"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "PAVITHRADEVI B",
+  "Column8": "pavithra_devi7"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "PRADEEP M",
+  "Column8": "Pradeep_M_77"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "PRAKASH RAJ S",
+  "Column8": "PRAKASHRAJ85"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "PRANESH C",
+  "Column8": "Praneshc14"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "PRANESH S",
+  "Column8": "pranesh_22"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "PRASANNA K M",
+  "Column8": "_PRASANNA_K_M_"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "PRATHIKSHA J",
+  "Column8": "Prathi_03"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "PRAVEEN A",
+  "Column8": "Praveen_A_"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "PRAVEEN R",
+  "Column8": "R_Praveen"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "PRAVIN D",
+  "Column8": "pravin-123"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "PRAVINKUMAR S",
+  "Column8": "spravinkumar9952"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "PREETHIKA P",
+  "Column8": "preethika_p"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "PRIYA K",
+  "Column8": "PRIYAKAMARAJ"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "PRIYANKA K A",
+  "Column8": "priyanka _k_a"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "RAHUL RAJ R",
+  "Column8": "RahulrajR"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "RAHUL T",
+  "Column8": "Rahultcse"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "RAJA GOWRIKA T",
+  "Column8": "RAJA-GOWRIKA_T"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "RAM DEEPAK P",
+  "Column8": "ramdeepak33"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "RAMASUBRAMANYAM P",
+  "Column8": "ram1216"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "RAMMPRASHATH K",
+  "Column8": "ramm2413"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "RANJITHKUMAR D",
+  "Column8": "RANJITHKUMAR7"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "RASHIKA K V",
+  "Column8": "rashika_kv"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "REDITHALA ROHAN",
+  "Column8": "user6758i"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "RIHANABANU A",
+  "Column8": "RIHANABANU"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "RUBIN KUMAR K",
+  "Column8": "user9710zj"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "SABAREESWARAN G",
+  "Column8": "Sabari2309"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "SAI SIDDHARTH",
+  "Column8": "Sai_Sid_2002"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "SAKTHIMAHESWARAN U S",
+  "Column8": "Sakthimaheswaran_2002"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "SANJAY G S",
+  "Column8": "sanjudddd400"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "SANJAY N",
+  "Column8": "Sanjay_N_2003"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "SANJAY R",
+  "Column8": "user3466Ie"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "SANJEEV CHANDRAN M",
+  "Column8": "Sanjeevchandran"
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "SANJITH R K",
+  "Column8": "Sanjith16"
+ },
+ {
+  "Leetcode Student Id Details ": 58,
+  "Column7": "KOWSHIKA M",
+  "Column8": "Kowshi_19"
+ },
+ {
+  "Leetcode Student Id Details ": 59,
+  "Column7": "PRASANTH G",
+  "Column8": "prasanth"
+ },
+ {
+  "Leetcode Student Id Details ": 60,
+  "Column7": "SAKTHI S",
+  "Column8": "SAKTHI_S"
+ }
+],
+"CSE C":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "SANTHIYAA B",
+  "Column8": "Santhiyaa_Balamurugan029"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "SARAN G",
+  "Column8": "Saran_G"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "SARAVANAN B",
+  "Column8": "Saravanan_B"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "SARVESH V V",
+  "Column8": "sarvesh01"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "SASIREKA S",
+  "Column8": "sasireka20cs120"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "SATHIYABANU R",
+  "Column8": "user0351Px"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "SELVANANDHINI A",
+  "Column8": "SELVANANDHINI_A"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "SELVENDHIRAN R",
+  "Column8": "Selva_7"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "SENTHAMIZHARASU M S",
+  "Column8": "Senthamizharasu"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "SHAKTHI KIRAN R",
+  "Column8": "shakthi_kiran"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "SHANMUGA PRIYA R",
+  "Column8": "Shanmugapriya126"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "SHAVAL KHAN M",
+  "Column8": "SHAVALKHAN"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "SHOBANA M",
+  "Column8": "shobana03"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "SHREE NARAYANAN M",
+  "Column8": "shreenarayanan2"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "SHREE RAMANAA M",
+  "Column8": "Shree_Ramanaa "
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "SHRUTHI G",
+  "Column8": "shruthi _G_7"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "SIVANARAYAN J",
+  "Column8": "Sivanarayan"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "SNEHA S",
+  "Column8": "user6961V"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "SOORJI MARTINA K",
+  "Column8": "SOORJI "
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "SOUNDARYA V N",
+  "Column8": "SOUNDARYA_V_N"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "SOWNTHARYA K",
+  "Column8": "Sowntharya K"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "SREE GOUSHIK RAJAA R",
+  "Column8": "Bloodlust "
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "SREESHARAN N",
+  "Column8": "Sharan20cs138"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "SRI HARI K R",
+  "Column8": "Srihari_bug"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "SRIMATHI G",
+  "Column8": "Srimathi140"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "SRINITHI R",
+  "Column8": "Srinithi037"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "STEPHEN KUMAR K",
+  "Column8": "K_Steve_037"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "SUBANANTHITHA K",
+  "Column8": "Suba17"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "SUBAHARINI",
+  "Column8": "SUBHAHARINI_S"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "SUGANTHI M",
+  "Column8": "Suganthi_M"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "SUGAVANAESH S",
+  "Column8": "SUGAVANAESH "
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "SUGUMAR A",
+  "Column8": "Sugumar_A"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "SUJITH SAIRAM M",
+  "Column8": "20CS148"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "SURJITHRAJA A",
+  "Column8": "Surjith_07"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "SUTHARSUN P D",
+  "Column8": "sutharsun"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "SWETHA G",
+  "Column8": "Swetha-G"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "TAMILSELVAN M",
+  "Column8": "Tamilselvan_2003"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "TAMILSELVI S",
+  "Column8": "tamilselvi_53"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "THARUN KUMAR C",
+  "Column8": "TharunKumarC"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "VANITHA A",
+  "Column8": "vanitha_a"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "VARSHIKHA N R",
+  "Column8": "varshikha_nr"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "VARSHINI B",
+  "Column8": "varshini0322"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "VARUNPRASATH M",
+  "Column8": "varunprasathM"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "VELLANKI SHAINI",
+  "Column8": "shaini"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "VIDDHYA J",
+  "Column8": "Viddhya"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "VIDHYA BHARATHI V",
+  "Column8": "Vidhya_Bharathi_61"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "VIDHYA N",
+  "Column8": "vidhya_n"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "VIGNESHWARAN B",
+  "Column8": "vicky03042033"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "VIGNESHWARAN R",
+  "Column8": "vigneshwaran_1045"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "VIJAY V",
+  "Column8": "vijay235"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "VINEETH K",
+  "Column8": "R1ck_S4ncherz"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "VINISHA M",
+  "Column8": "vinisha_m"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "VINUDHARSHINI R",
+  "Column8": "vinudharshini_r"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "VISHAL KHUMAR R",
+  "Column8": "Vishalkhumar_R"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "VISHNUPRABHU R",
+  "Column8": "user1652bE"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "YASWANTH KUMAR S",
+  "Column8": "user0208NR"
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "YAZHINI A",
+  "Column8": "Yazhini-57_"
+ },
+ {
+  "Leetcode Student Id Details ": 58,
+  "Column7": "G.NAVEEN KUMAR",
+  "Column8": "naveen2727"
+ },
+ {
+  "Leetcode Student Id Details ": 59,
+  "Column7": "PRASANNA G",
+  "Column8": "Prasanna-g2003"
+ },
+ {
+  "Leetcode Student Id Details ": 60,
+  "Column7": "SANJEEVA KUMAR M",
+  "Column8": "sanjeevakumar"
+ },
+ {
+  "Leetcode Student Id Details ": 61,
+  "Column7": "TEJASHWIN",
+  "Column8": "user6247ol"
+ }
+],
+"IT":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "ABHIMAN K S",
+  "Column8": "User79380"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "ABIRAM R",
+  "Column8": "Abiram_mestine"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "AISHWARYA R",
+  "Column8": "AishwaryaR1203"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "ARUN PRASATH N",
+  "Column8": "arunprasath.n2020it@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "ARUNKUMAR T",
+  "Column8": "arunkumar.tit2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "ASHLIN VINCENT",
+  "Column8": "user1119M"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "ASHWIN B",
+  "Column8": "NA"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "BHOOMISH R",
+  "Column8": "20IT008"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "BOOBALAN E",
+  "Column8": "boobalan_13"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "CHANDURU P",
+  "Column8": "User0275gh"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "DHARSHINI B",
+  "Column8": "Dharshini11"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "GANESH KUMAR R",
+  "Column8": "ganeshkarna012"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "GANESH V T",
+  "Column8": "GANESHVT"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "GURUPRASATH M",
+  "Column8": "guru4257"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "HARIHARAN R",
+  "Column8": "Hari rk"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "HARINI B",
+  "Column8": "Harini_027"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "HARIPRASANTH S",
+  "Column8": "hariprasanth.s2020it@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "JANANI M",
+  "Column8": "JANANI-M"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "KARTHIKRAJ J",
+  "Column8": "User8112cb"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "KASIVISWANATH M S",
+  "Column8": "user9816X"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "KAVIYA E",
+  "Column8": "user9703Ty"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "KOWSALYA S",
+  "Column8": "user9675Z"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "MADHU VARSHINI M",
+  "Column8": "Madhuvarshini"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "MANGAI A",
+  "Column8": "Mangai_A"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "MOHAMED AFSAR I",
+  "Column8": "20IT025"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "NAVEEN M",
+  "Column8": "naveen_3031"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "PALANI MURUGAN A",
+  "Column8": "Palani murugan A"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "POOJA SRI R",
+  "Column8": "POOJA_SRI_R"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "PRADEEPKUMAR V S",
+  "Column8": "20IT-029_"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "PRASANNA A",
+  "Column8": "PRASANNA-A"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "PRIYANGABABY D",
+  "Column8": "Priyangababy D"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "PRIYANKA J",
+  "Column8": "priyanka_j1"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "RAHUL K",
+  "Column8": "rahul_kjry"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "RAMANAN V",
+  "Column8": "ramananvenkateswaran"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "RITHIK H B",
+  "Column8": "rithik_bhojan"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "SADHANA K",
+  "Column8": "Sadhana_Kumar"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "SAI SANJAY RAJ J",
+  "Column8": "saisanjay.rajj2020it@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "SANJAI RAGUL M",
+  "Column8": "SANJAIRAGUL"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "SARAN B",
+  "Column8": "Saran_7"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "SELVAKUMAR A",
+  "Column8": "selvakumar1"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "SEYAD REESMAN T",
+  "Column8": "seyad_reesma"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "SIVAPRASATH U",
+  "Column8": "Sivaprasath2606"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "SOWMIYA R",
+  "Column8": "user5724v"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "SREEJISHA S",
+  "Column8": "user7290i"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "SRI VARSINI S K",
+  "Column8": "Sri_Varsini_S_K"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "SRIPAD P K",
+  "Column8": "sripadpk"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "SUBHASRI S",
+  "Column8": "047subhasri"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "SUDHARSAN D S",
+  "Column8": "Sudharsan_D_S"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "SUDHIKSHA A",
+  "Column8": "user6269Er"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "SUGANYA P",
+  "Column8": "SUGANYA-P"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "SUPRIYA K",
+  "Column8": "user8736bT"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "SUSHMASHREE T S",
+  "Column8": "sushmashreet.sit2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "SWAGAT TEEJORAM R",
+  "Column8": "SWAGAT_TEEJORAM"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "SWATHI M",
+  "Column8": "7135i"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "SWETHA K",
+  "Column8": "swetha_kannan_01"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "TAPAN K R",
+  "Column8": "Tapan"
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "VARSHA S",
+  "Column8": "Varsha_30"
+ },
+ {
+  "Leetcode Student Id Details ": 58,
+  "Column7": "VISHNUVARADHAN D",
+  "Column8": "Vishnu27902"
+ },
+ {
+  "Leetcode Student Id Details ": 59,
+  "Column7": "AMITHA",
+  "Column8": "Amitha_Amitha"
+ }
+],
+"CSBS":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "Abirami S",
+  "Column8": "Abirami_8312"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "Ajay K",
+  "Column8": "raviajay9344"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "Akash K",
+  "Column8": "Akashrajeev"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "Amresh.M",
+  "Column8": "Amresh_M"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "Amritha.P",
+  "Column8": "AmrithaPrakash"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "Ananth G",
+  "Column8": "ananth003"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "Anuvindh.M",
+  "Column8": "anuvindh.acsbs2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "Dhanu Shree S S",
+  "Column8": "dhanushree.g2020cce@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "Gomathisankar.V",
+  "Column8": "gomathisankar.v2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "Gowshick H",
+  "Column8": "gowshik.acsbs2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "Hardika",
+  "Column8": "hardika20cb012"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "Jayasudha C",
+  "Column8": "Jayasudha 5346"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "JYOTHIKAMALESH S",
+  "Column8": "jyothikamalesh"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "Jyothir B A",
+  "Column8": "jyothir.g2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "KEERTHANA S",
+  "Column8": "NA"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "kishore R E",
+  "Column8": "kishore.r.ecsbs2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "Loganathan S S",
+  "Column8": "loganathan.s2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "Mithun Raj M",
+  "Column8": "mithunrajsece"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "MOULIESHWARAN.K",
+  "Column8": "moulieshwaran.k2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "Mukesh kanna R",
+  "Column8": "Mukesh_21"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "MUTHURAMAN P",
+  "Column8": "muthuram_lead"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "Nimesh Rajan.D",
+  "Column8": "Nimeshrajan24"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "Nithish Kumar I",
+  "Column8": "Nithish_6"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "Praveen R",
+  "Column8": "Praveenr_5"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "PRITHIVI RAJ .P",
+  "Column8": "20CB026"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "RAJASANTHOSH M",
+  "Column8": "rajasanthoshm@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "Ranjana.E",
+  "Column8": "20CB028"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "RAVIBHAARATI S P S",
+  "Column8": "ravibhaarati"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "SANJAI KUMAR S S",
+  "Column8": "sanjai_kumarSS"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "Sanjai.M.B",
+  "Column8": "SanjaiMB031"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "SANKEERTHAN K",
+  "Column8": "sankeerthan.k2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "Santhosh Babu.B",
+  "Column8": "santhosh.g2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "santhosh Kumar",
+  "Column8": "santhosh_1806"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "Sasiprakash M K",
+  "Column8": "sasiprakash.mk2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "SATHISH C",
+  "Column8": "sathish.a2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "Selvakumar T",
+  "Column8": "selva_4434"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "shalini A",
+  "Column8": "shalini_2002"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "Shri suriya p",
+  "Column8": "shri2303"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "Sowmiya M",
+  "Column8": "sowmiya.g2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "SOWNTHARIYA M",
+  "Column8": "sow1911"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "STALIN A",
+  "Column8": "stalin.g2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "SUNDHARABALAJI K L",
+  "Column8": "sundharabalaji.g2020csbs@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "Vasanth R",
+  "Column8": "vasanth.rcsbs2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "VASANTHARAJAN V",
+  "Column8": "vasantharajan.acsbs2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "Vinuja M",
+  "Column8": "Vinuja_24"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "Balamurugan",
+  "Column8": "itsbala"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "Ranjitha",
+  "Column8": "Ranji1704"
+ }
+],
+"AIDS":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "ABISHEK VENU VENKAT N",
+  "Column8": "Abishek_n"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "AGILAN",
+  "Column8": "AgilanAgil"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "AJAY A",
+  "Column8": "ajay211"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "AMITHA M",
+  "Column8": "Amitha_M"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "ARUNACHALAM K",
+  "Column8": "ARUNACHALAM_K"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "DEEPAK SARAN V S",
+  "Column8": "Deepak_Saran"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "DHAANUS K",
+  "Column8": "Dhaanus_k_"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "FARHAN AHMED KHAN A",
+  "Column8": "20AD008"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "GOHULPRASATH T",
+  "Column8": "Gohulsece"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "HARIHARAN G",
+  "Column8": "Hariharan2003"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "HARISH M",
+  "Column8": "Harish_20AD011"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "HARISH RAGAVENDRAN A",
+  "Column8": "harishragavendran_2020"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "KARNA P",
+  "Column8": "karna7119"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "KAVYA A",
+  "Column8": "Kavya_a02"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "KONAKANDLA ADITYA ASHRITH",
+  "Column8": "AdityaAshrith"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "KUNGUMA SAKTHIVEL K",
+  "Column8": "manish9095"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "MADHUMITHA S",
+  "Column8": "Madhumitha_s"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "MOULISWARAN R",
+  "Column8": "Mouli66"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "NAVEEN V",
+  "Column8": "20ad020"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "PRADHEESH KUMAR S",
+  "Column8": "pradheesh26"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "PRATHAP E",
+  "Column8": "prathap_07"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "PREETHIE K",
+  "Column8": "Preethie_K"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "RANJITH R",
+  "Column8": "RAJAITH20AD024"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "SANTHOSH M",
+  "Column8": "santhosh.m2020aids@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "SANTHOSH T",
+  "Column8": "santhosht170"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "SARAVANAA G",
+  "Column8": "saravanaa02"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "SRINIVASA N",
+  "Column8": "user8775AM"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "SUBITSHA M",
+  "Column8": "SUBITSHA_M"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "SUDARSSAN N",
+  "Column8": "sudarssan_n"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "SUMAIYA FATHIMA I",
+  "Column8": "Sumaiya_Fathima"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "SUMITHRA M",
+  "Column8": "Sumithra_M"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "SURENDRA P",
+  "Column8": "surendra_p"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "SUSHMA R",
+  "Column8": "Sushma_r"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "SWETHA S",
+  "Column8": "swethasumesh01"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "VARSHA R M",
+  "Column8": "Varsha_R_M"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "VASANTH G",
+  "Column8": "Vasanth_G"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "VIDYA K",
+  "Column8": "Vidya_02"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "VISHNU M",
+  "Column8": "Vishnu_M"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "VISNUPRIYA K V",
+  "Column8": "Visnupriya_2002"
+ }
+],
+"ECE A":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "ABIRAMI KAVIYA DHARSHINI M",
+  "Column8": "abijaya2628@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "AISWARYA S K",
+  "Column8": "aiswaryas.v2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "Akshailakshmi.T",
+  "Column8": "akhshailakshmi.t2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "Amila Parvin J S",
+  "Column8": "amila.parvinece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "AMRUTHAVARSHINI S ",
+  "Column8": "amruthavarshini.sece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "ANJALI D",
+  "Column8": "anjali.dece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "APARNA A",
+  "Column8": "aparna.aece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "ARUNKUMAR P",
+  "Column8": "arunkumar.pece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "ASHVANTHKUMAR R",
+  "Column8": "ashvanthkumar.r2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "Asmitha M",
+  "Column8": "asmitha.mece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "ATHISHA M",
+  "Column8": "athi.024av@gmail.com "
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "Balaji A",
+  "Column8": "balaji.a2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "BHARANINAGALAKSHMI V",
+  "Column8": "bharaninagalakshmi.v2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "BHARATH M",
+  "Column8": "bharath.m2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "Bhuvaneshkumar R ",
+  "Column8": "bhuvaneshkumar.r2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "BHUVANESHWARI G",
+  "Column8": "bhuvigopalakrishnan"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "BOOPATHI SELVAN N",
+  "Column8": "boopathy.n2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "Chandramouli P",
+  "Column8": "chandramouli.pece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "HITESHREDDY",
+  "Column8": "hitesh.reddysece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "CIBIKANNA L",
+  "Column8": "cibi.l2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "DAYANAND A",
+  "Column8": "likedaya@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "DEEPAK A",
+  "Column8": "deepak.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "Dhamayanthi.M",
+  "Column8": "dhamayanthi.m2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "DHARANIBALAN S",
+  "Column8": "Dharanibalan"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "Dharsan.S",
+  "Column8": "dharsan.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "Dharshana P S ",
+  "Column8": "dharshana.pece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "DHARSHINI R",
+  "Column8": "DHARSHINI R"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "Dharundp",
+  "Column8": "dharun.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "Dhatchayini E",
+  "Column8": "dhatchayini.e2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "Dhayalan N U",
+  "Column8": "DHAYA786"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "DHINESH KUMAR S",
+  "Column8": "dhinesh1209"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "DHIVYA A",
+  "Column8": "dhivya.a2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "DHIVYASHREE S",
+  "Column8": "dhivyashreesakthivel"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "Dinesh N",
+  "Column8": "dinesh.n2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "Dinesh Kumar.R ",
+  "Column8": "dinesh.g2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "Divya V BE ECE",
+  "Column8": "divya.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "Ganesh Giridaran. M",
+  "Column8": "ganeshgiridaran1@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "Godharshana M",
+  "Column8": "godharshana.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "GokilaVani V",
+  "Column8": "GokilaVaniVetrivel"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "GOKULANAND H",
+  "Column8": "Gok2607"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "GURU VISHNU P",
+  "Column8": "guruvishnu.p2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "Hari R",
+  "Column8": "hari.r2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "HARIPRIYA B ",
+  "Column8": "haripriya.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "HARIPRIYA S",
+  "Column8": "hari.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "HARISHANKAR K",
+  "Column8": "harishankar_22"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "HARISHANKAR K L",
+  "Column8": "20ec046"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "Harsha pradha.M",
+  "Column8": "Harsha_931"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "Harshan L",
+  "Column8": "harshan.l2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "Hubert Veyannie V ECE",
+  "Column8": "hubert.v2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "ILAKIYA G A",
+  "Column8": "ilakiya.a2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "Ilakya D",
+  "Column8": "ilakya.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "JEEVANANTHAM S",
+  "Column8": "jeevanantham.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "jeevanprasath.n",
+  "Column8": "jeevanprasath.n2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "jesheer",
+  "Column8": "jesheer.m2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "KABILAN V",
+  "Column8": "kabilan.vece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "KAMALESH KUMAR P S",
+  "Column8": "kamaleshkumar.ps2021ecea@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "Mohammed shahil ",
+  "Column8": "mohammedshahil.s2021ecea@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 58,
+  "Column7": "Sanjay J B",
+  "Column8": "sanjay.jb2020ecea@sece.ac.in"
+ }
+],
+"ECE B":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "KALAIVANAN S",
+  "Column8": "kalaivanan.sece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "KAMALESHWARAN L",
+  "Column8": "kamaleshwaran.l2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "KAMALISRI K G",
+  "Column8": "kg_kamali"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "KARAN S",
+  "Column8": "karan.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "KARTHIK RAJA B",
+  "Column8": "karthikraja.g2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "KARTHIKEYAN K",
+  "Column8": "karthikeyan.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "KARTHIKEYAN M",
+  "Column8": "KARTHI_KEYAN"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "KARUNAYA M",
+  "Column8": "karunaya.m2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "KARUNYA M",
+  "Column8": "karunya.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "KATHIRVEL K",
+  "Column8": "kathirvel.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "KAVIARASU N",
+  "Column8": "Kaviarasu.n@2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "KAVIN E",
+  "Column8": "kavin.eece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "KAVYA SHREE K",
+  "Column8": "kavyashree.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "KIRANPRASATH J",
+  "Column8": "kiran.prasathece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "KIRUTHIKA R",
+  "Column8": "20ec072"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "KRISHNA GOKUL A",
+  "Column8": "krishna.a2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "KURALOVIYA K",
+  "Column8": "kuraloviya"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "MANIKANDAN C",
+  "Column8": "manikandan.cece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "MANOJ K",
+  "Column8": "manoj.kece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "MATHIYALAGAN M",
+  "Column8": "mathiyalagan.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "MERLIN ANITHA A",
+  "Column8": "merlin.athisayaraj@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "MITHUL C B",
+  "Column8": "Mithul_CB"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "MOHAMMED ARSHATH M",
+  "Column8": "Arshath_46"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "MOHANAPRIYA K",
+  "Column8": "mohanapriya.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "NAVEEN KUMAR L",
+  "Column8": "naveenkumar.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "NAVEENKUMAR S",
+  "Column8": "naveen.s2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "NAVEENKUMAR T",
+  "Column8": "naveen.t2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "NAVIN VENKATESH K",
+  "Column8": "navinvenkatesh.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "NIKHIL S A",
+  "Column8": "nikhil.sa2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "NITHESH KUMAR N",
+  "Column8": "nithesh.n2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "NITHISHKUMARAN M",
+  "Column8": "nithishkumaran.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "PAVITHRA DEVI E",
+  "Column8": "pavithradevi.e2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "PAVITHRA DHARANI S",
+  "Column8": "pavithradharani.g2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "PAVITHRA S 12-08-2003",
+  "Column8": "pavithra_12"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "PAVITHRA S 14-07-2002",
+  "Column8": "pavithras2002"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "PETERSAM E",
+  "Column8": "mclaren2676882@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "PIRIADHARSI P",
+  "Column8": "PIRIADHARSI_P"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "PRABHAKARAN P",
+  "Column8": "prabhakaran.pece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "PRABHU K",
+  "Column8": "prabhuk_2002"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "PRAKASH M",
+  "Column8": "prakash.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "PRASANNA T",
+  "Column8": "prasanna.t2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "PRASANTHKUMAR M",
+  "Column8": "MPrasanthkumar"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "PRASHANTH C P",
+  "Column8": "Prashanth_C_P"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "PRAVEEN KUMAR S",
+  "Column8": "20ece101"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "PRITHIVIRAJ M",
+  "Column8": "prithiviraj.mece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "PRITHVI D",
+  "Column8": "dprithvi02@gmail.com"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "PRIYA R",
+  "Column8": "priya.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "RAGHUL FRANCKLIN N",
+  "Column8": "raghulfrancklin.n2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "RAGHUL S",
+  "Column8": "raghul.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "RAJASHREE S",
+  "Column8": "rajashree.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "RALYNN CELECIA R",
+  "Column8": "raylynn.celeciasece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "RANJITH K S",
+  "Column8": " ranjithk.ks2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "RENUKA DEVI J M",
+  "Column8": "renuka.jm2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "AAKASH P",
+  "Column8": "aakash.p2020eceb@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "HARI S",
+  "Column8": "hari.s2020eceb@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 56,
+  "Column7": "KANISHKHAR M K",
+  "Column8": "kanishkhar.mk2021eceb@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 57,
+  "Column7": "SRI VISHNU N",
+  "Column8": "srivishnu.n2021eceb@sece.ac.in "
+ }
+],
+"ECE C":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "SABARI M",
+  "Column8": "sabari.m2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "SABARIVENKATESH .K",
+  "Column8": "sabari.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "SANCTA MARIA.J",
+  "Column8": "sancta.mariasece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "SANGEETHA P",
+  "Column8": "Sangeetha84515"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "SANJAY K",
+  "Column8": "Sanjay1112"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "SANJAY S",
+  "Column8": "sanjay_02"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "SANKARANARAYANAN .T .N",
+  "Column8": "Sankar_03"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "SANTHIYA T",
+  "Column8": "santhiya.t2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "SARAN M",
+  "Column8": "saran.mece2020@sece.ac.in\n"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "SARAN S",
+  "Column8": "saran.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "SARANYANANDHINI D",
+  "Column8": "saranyanandhini.d2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "SARAVANAKUMAR S",
+  "Column8": "20ec123"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "SARAVANAN K",
+  "Column8": "saravanan.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "SARAVANAN K S",
+  "Column8": "saravana"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "SATHYARAJ N",
+  "Column8": "sathyaraj.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "SELVA KATHIRVEL RAJA G",
+  "Column8": "Selva_07"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "SHREE KHAANTH K",
+  "Column8": "shreekhaanth.g2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "SHRIVATHSAAN R",
+  "Column8": "shrivathsaan.r2020ece@sece.ac"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "SINEHAN K",
+  "Column8": "Sinehan.kece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "SIVASANKARI S",
+  "Column8": "Sivasankari-S"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "SIVASUBRAMANIAM N",
+  "Column8": "sivasubramaniamN"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "SNEHA V",
+  "Column8": "sneha.v2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "SOMANSANKARA P R",
+  "Column8": "Somansankara"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "SOUMIYA S",
+  "Column8": "soumiya.s"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "SOUNDARKARTHICK T",
+  "Column8": "soundarkarthick"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "SOWBARNIKA S S",
+  "Column8": "sowbarnika.ssece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "SOWMIYA.S",
+  "Column8": "Sowmiya84515"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "SOWNDARYA R",
+  "Column8": "sowndarya.r2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "SRIRAMKUMAR R",
+  "Column8": "sriramkumar.r2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "SRI VANI P",
+  "Column8": "P_SriVani"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "SRINIDHI NIVAS K",
+  "Column8": "srinidhinivas.kece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "SUBA HARINI E",
+  "Column8": "suba.e2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "SUBASH KRISHNA K",
+  "Column8": "Subash1234"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "SURESH P",
+  "Column8": "suresh.b2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "SURYAKUMAR S",
+  "Column8": "Suryakumar08"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "SUSMA NANDHINI S",
+  "Column8": "susma.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "SWATHI V",
+  "Column8": "swa_1234"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "SWATHI V S",
+  "Column8": "swathiv.k2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "TAMILSELVI T",
+  "Column8": "tamilselvi.t2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "UDAIYAPPAN T",
+  "Column8": "Udaiyappan "
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "VIGNESH M",
+  "Column8": "vignesh.m2020ece@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "UMESHWARAN S A",
+  "Column8": "UMESHWARAN S A"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "VENNILA K",
+  "Column8": "Vennila-3"
+ },
+ {
+  "Leetcode Student Id Details ": 44,
+  "Column7": "VIGNESH KUMAR S",
+  "Column8": "vignesh.g2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 45,
+  "Column7": "VIGNESHWAR V G",
+  "Column8": "VigneshwarVG"
+ },
+ {
+  "Leetcode Student Id Details ": 46,
+  "Column7": "VIJAY N",
+  "Column8": "Vijayn"
+ },
+ {
+  "Leetcode Student Id Details ": 47,
+  "Column7": "VISHNUPRASANTH B",
+  "Column8": "Vishnuprasanthece"
+ },
+ {
+  "Leetcode Student Id Details ": 48,
+  "Column7": "VISHNUPRIYA V",
+  "Column8": "vishnupriya.vece2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 49,
+  "Column7": "VIVEKA S",
+  "Column8": "viveka.sece2020@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 50,
+  "Column7": "VIVIN PAUL A",
+  "Column8": "vivin_17"
+ },
+ {
+  "Leetcode Student Id Details ": 51,
+  "Column7": "YALINI S",
+  "Column8": "yalini.s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 52,
+  "Column7": "YOGESWARI S",
+  "Column8": "yogeswari. s2020ece@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 53,
+  "Column7": "KARTHICK SARAVANAN B V ",
+  "Column8": "karthicksaravanan.bv2021ecec@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 54,
+  "Column7": "TAMILAN S",
+  "Column8": "tamilan.e2021ecec@sece.ac.in "
+ },
+ {
+  "Leetcode Student Id Details ": 55,
+  "Column7": "VINOTHKUMAR G",
+  "Column8": "vinoth_18"
+ }
+],
+"CCE":[
+ {
+  "Leetcode Student Id Details ": "S.no",
+  "Column7": "Name",
+  "Column8": "User Id"
+ },
+ {
+  "Leetcode Student Id Details ": 1,
+  "Column7": "Arulpriya. R",
+  "Column8": "Arulpriya-07"
+ },
+ {
+  "Leetcode Student Id Details ": 2,
+  "Column7": "Baladeepika V ",
+  "Column8": "Baladeepika_02"
+ },
+ {
+  "Leetcode Student Id Details ": 3,
+  "Column7": "BALAJI S R",
+  "Column8": "balajiravi"
+ },
+ {
+  "Leetcode Student Id Details ": 4,
+  "Column7": "BHUVANESH B ",
+  "Column8": "Bhuvanesh-B"
+ },
+ {
+  "Leetcode Student Id Details ": 5,
+  "Column7": "Binusakthi.R",
+  "Column8": "binusakthi"
+ },
+ {
+  "Leetcode Student Id Details ": 6,
+  "Column7": "DHANUSHWAR. M",
+  "Column8": "Dhanushwar"
+ },
+ {
+  "Leetcode Student Id Details ": 7,
+  "Column7": "DHARSHAN  P M",
+  "Column8": "user4610HZ"
+ },
+ {
+  "Leetcode Student Id Details ": 8,
+  "Column7": "Dilip Kumar S ",
+  "Column8": "Dilip Kumar S "
+ },
+ {
+  "Leetcode Student Id Details ": 9,
+  "Column7": "GOKUL KRISHNAN K",
+  "Column8": "goku17"
+ },
+ {
+  "Leetcode Student Id Details ": 10,
+  "Column7": "Gopinath M ",
+  "Column8": "gopinath123"
+ },
+ {
+  "Leetcode Student Id Details ": 11,
+  "Column7": "GOWTHAM G",
+  "Column8": "Gowtham_16"
+ },
+ {
+  "Leetcode Student Id Details ": 12,
+  "Column7": "Haris Dominic Savier",
+  "Column8": "Dominic_savier"
+ },
+ {
+  "Leetcode Student Id Details ": 13,
+  "Column7": "Hemanth D ",
+  "Column8": "HemanthD77"
+ },
+ {
+  "Leetcode Student Id Details ": 14,
+  "Column7": "Jeeva",
+  "Column8": "_jeeva_"
+ },
+ {
+  "Leetcode Student Id Details ": 15,
+  "Column7": "KAVINKUMAR P",
+  "Column8": "Kavin_25"
+ },
+ {
+  "Leetcode Student Id Details ": 16,
+  "Column7": "KEERTHANA.M",
+  "Column8": "20CC016"
+ },
+ {
+  "Leetcode Student Id Details ": 17,
+  "Column7": "Keerthana .v ",
+  "Column8": "Keerthana-13"
+ },
+ {
+  "Leetcode Student Id Details ": 18,
+  "Column7": "Keransanjay.B.S",
+  "Column8": "keransanjay_B_S"
+ },
+ {
+  "Leetcode Student Id Details ": 19,
+  "Column7": "Kiruthika D ",
+  "Column8": "Kiruthika-03"
+ },
+ {
+  "Leetcode Student Id Details ": 20,
+  "Column7": "LOKESH KUMAR S ",
+  "Column8": "lokesh.kumarscce2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 21,
+  "Column7": "MOHANKUMAR M",
+  "Column8": "20CC021"
+ },
+ {
+  "Leetcode Student Id Details ": 22,
+  "Column7": "NIKIL S",
+  "Column8": "Nik012"
+ },
+ {
+  "Leetcode Student Id Details ": 23,
+  "Column7": "PARTHIPAN M ",
+  "Column8": "parthipan023"
+ },
+ {
+  "Leetcode Student Id Details ": 24,
+  "Column7": "PAVITHRA R ",
+  "Column8": "pavithra.rcce2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 25,
+  "Column7": "M.Rajarajan",
+  "Column8": "rajarajan_1226"
+ },
+ {
+  "Leetcode Student Id Details ": 26,
+  "Column7": "Rajkumar.A",
+  "Column8": "Rajz"
+ },
+ {
+  "Leetcode Student Id Details ": 27,
+  "Column7": "Roshne.V",
+  "Column8": "20cc027"
+ },
+ {
+  "Leetcode Student Id Details ": 28,
+  "Column7": "Sandhiya.R",
+  "Column8": "sandhiya.b2020cce@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 29,
+  "Column7": "SANMATHI PRIYA G",
+  "Column8": "Sanmathipriya_07"
+ },
+ {
+  "Leetcode Student Id Details ": 30,
+  "Column7": "SARASWATHI V",
+  "Column8": "Saraswathivijayakumar"
+ },
+ {
+  "Leetcode Student Id Details ": 31,
+  "Column7": "Sathish v ",
+  "Column8": "sathish_v"
+ },
+ {
+  "Leetcode Student Id Details ": 32,
+  "Column7": "SHANMATHI. S",
+  "Column8": "SHANMATHI06"
+ },
+ {
+  "Leetcode Student Id Details ": 33,
+  "Column7": "SOWNDHARYAN V R S ",
+  "Column8": "SOWNDHARYAN_V_R_S"
+ },
+ {
+  "Leetcode Student Id Details ": 34,
+  "Column7": "SRIRAM D B ",
+  "Column8": "SRIRAM_D_B"
+ },
+ {
+  "Leetcode Student Id Details ": 35,
+  "Column7": "Subasri.M",
+  "Column8": "Subasri_05"
+ },
+ {
+  "Leetcode Student Id Details ": 36,
+  "Column7": "Subhaas Krishnan ",
+  "Column8": "subhaasKrishnan"
+ },
+ {
+  "Leetcode Student Id Details ": 37,
+  "Column7": "SUJITHA J",
+  "Column8": "sujitha.jcce2020@sece.ac.in"
+ },
+ {
+  "Leetcode Student Id Details ": 38,
+  "Column7": "SundaraMahalingam.S",
+  "Column8": "user6696Ub"
+ },
+ {
+  "Leetcode Student Id Details ": 39,
+  "Column7": "Swetha S ",
+  "Column8": "20CC040"
+ },
+ {
+  "Leetcode Student Id Details ": 40,
+  "Column7": "Uma.R",
+  "Column8": "20CC041"
+ },
+ {
+  "Leetcode Student Id Details ": 41,
+  "Column7": "Vetrivel j",
+  "Column8": "20cc042"
+ },
+ {
+  "Leetcode Student Id Details ": 42,
+  "Column7": "Vignesh Narayanan Navaladi",
+  "Column8": "Vignesh Narayanan Navaladi"
+ },
+ {
+  "Leetcode Student Id Details ": 43,
+  "Column7": "Vinod.s.a",
+  "Column8": "Vinodcce"
+ }
+]
+}

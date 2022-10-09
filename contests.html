@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="http://localhost/platformtrack/style.css"/>
+    <link rel="stylesheet" href="http://localhost/platformtrack/otherstyle.css"/>
+
+    <script src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
+
+    <style type="text/css">
+    
+    #download{
+
+         position: absolute;
+         left:47%;
+         background-color:white;
+         border-radius: 10px;
+         background-color: yellow;
+         font-weight: bold;
+         text-align: center;
+         padding:10px;
+         padding-left:20px;
+         padding-right:20px;
+    }
+
+    #inputs{
+        position:absolute;
+        left:30%;
+    }
+
+    table{
+        position:absolute;
+        left:28%;
+    }
+
+    </style>
+
+    <title>Document</title>
+</head>
+<body>
+    
+    <div id="header">
+    <a style="display:none" href="http://localhost/platformtrack/admin.html">Admin</a>
+    <br/>
+    <span id="load" style="text-align:center;display:none">Loading...</span>
+    <br/><br/>
+
+
+    <h1 style="text-align:center">Smart Track</h1>
+
+    <div id="inputs">
+
+    <select id="contest">
+         <option value=0>Weekly Contest</option>
+         <option value=1>Biweekly Contest</option>
+         <option value=2>CodeChef Contest</option>
+    </select>
+
+    
+
+    <input type="number" id="cid" placeholder="Weekly-Contest-Number" value=0/>
+
+    <select id="year">
+        <option value=0>Year</option>
+        <option value=1>1</option>
+        <option value=2>2</option>
+        <option value=3>3</option>
+        <option value=4>4</option>
+    </select>
+
+    <select id="dept">
+        <option value="">Department</option>
+        <option value="CSE">CSE</option>
+        <option value="IT">IT</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+        <option value="MECH">MECH</option>
+        <option value="CCE">CCE</option>
+        <option value="CSBS">CSBS</option>
+        <option value="AIDS">AIDS</option>
+    </select>
+
+    
+    <select id="cname">
+        <option value="">Section</option>
+        <option value="A">A</option>
+        <option value="B">B</option>
+        <option value="C">C</option>
+    </select>
+
+
+    </div>
+    
+    <br/><br/><br/>
+    <button id="search" onclick="search()">Search</button>
+    <button id="download" onclick="download()" style="display:none">Download</button>
+    <br/><br/><br/>
+    </div>
+
+    <br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    
+    <div>
+    <table id="table">
+        <thead>
+            <th id="ts">S.No</th>
+            <th id="tname">Name</th>
+            <th id="tr">Rank</th>
+            <th id="td">Division</th>
+        </thead>
+
+        <tbody id="ranklist">
+
+        </tbody>
+    </table></div>
+<br/><br/>
+    
+    
+    <script type="text/babel">
+     
+     let contest=document.getElementById("contest");
+     let cid=document.getElementById("cid");
+     let year=document.getElementById("year");
+     let dept=document.getElementById("dept");
+     let cname=document.getElementById("cname");
+     let total=0;
+
+
+    contest.onchange=()=>{
+           
+        if(contest.value==0){
+            cid.type="number";
+            cid.placeholder="Weekly-Contest-Number";
+        }
+        
+        else if(contest.value==1){
+            cid.type="number";
+            cid.placeholder="BiWeekly-Contest-Number";
+        }
+
+        else if(contest.value==2){
+            cid.type="text";
+            cid.placeholder="Code-Chef-Contest";
+        }
+        
+    }
+
+    function toExcel(){
+             
+            let table=document.getElementById("table");
+            let file=XLSX.utils.table_to_book(table,{sheet : "RankList"});
+
+            XLSX.write(file,{bookType : 'xlsx',bookSST : true,type : 'base64'});
+            XLSX.writeFile(file,cid.value+"_"+year.value+"_"+dept.value+"_"+cname.value+".xlsx");
+    }
+
+    function download(){
+        toExcel();
+    }
+
+    function View(props){
+
+            let li=[];
+            console.log(total);
+
+               /*if(props.details.length==total){
+
+             document.getElementById("download").style.display="block";
+                document.getElementById("search").style.disply="none";
+                document.getElementById("search").style.disply="none";
+                
+                //toExcel();
+            }*/
+
+            props.details.sort((a,b)=>{
+
+                if(contest.value==2 && a.div!=b.div)
+                return a.div-b.div;
+                return a.rank-b.rank;
+            });
+
+            for(let i=0;i<props.details.length;i++){
+
+               /* if(props.details.length-1==i)
+                document.getElementById("load").style.display="none";*/
+                let temp;
+
+                if(props.details[i]["rank"]==Infinity)
+                temp=<tr style={{backgroundColor:"red",color:"yellow"}}><td>{i+1}</td><td>{props.details[i]["name"]}</td><td>{props.details[i]["rank"]}</td><td>{props.details[i]["div"]}</td></tr>;
+                
+                else
+                temp=<tr><td>{i+1}</td><td>{props.details[i]["name"]}</td><td>{props.details[i]["rank"]}</td><td>{props.details[i]["div"]}</td></tr>;
+                li.push(temp);
+            }
+
+            if(props.details.length==total){
+            
+               
+                document.getElementById("search").style.display="none";
+                document.getElementById("download").style.display="block";
+                document.getElementById("load").style.display="none";
+                total=0;
+          }
+
+            return li;
+    }
+
+    function search(){
+
+       console.log("hi");
+
+        //let total=0;
+        let ajax=new XMLHttpRequest();
+        
+
+        ajax.onload=()=>{
+
+             let arr=ajax.responseText.split(":");
+             let details=[];
+             //total=arr.length;
+
+             console.log(arr);
+
+             document.getElementById("load").style.display="block";
+
+             for(let i=0;i<arr.length;i++){
+
+                /* if(i==arr.length-1)
+                 document.getElementById("load").style.display="none";*/
+
+                 let temp=arr[i].split(",");
+
+                 if((temp[1]==year.value || year.value==0) && (temp[2]==dept.value || dept.value=="") && 
+                 (temp[3]==cname.value || cname.value=="")){
+                        
+                      total++;
+                        let http=new XMLHttpRequest();
+
+                        http.onload=()=>{
+                            
+                           // console.log(temp[1]);
+                            document.getElementById("load").style.display="block";
+                            let dom=new DOMParser().parseFromString(http.responseText,"text/html");
+                            //console.log(dom.getElementsByClassName("place-cell")[0]);
+                            let profile={};
+
+                            try{
+
+                            let rank=dom.getElementsByClassName("place-cell")[0].innerHTML.trim().split(" ");
+                            console.log(rank[0]);
+                            
+
+                            profile["name"]=temp[0];
+                            profile["rank"]=Number(rank[0]);
+
+                            if(profile["rank"]==1)
+                            profile["rank"]=Infinity;
+
+                            if(contest.value==2){
+                                let t=dom.getElementsByClassName("addition-division-cell")[0].innerText.trim();
+                                profile["div"]=Number(t[t.length-1]);
+                            }
+
+                            else
+                            profile["div"]=NaN;
+
+                           }
+
+                           catch(err){
+                               //console.log("yes");
+                               profile["name"]=temp[0];
+                               profile["rank"]=Infinity;
+                               profile["div"]=Infinity;
+                              // details.push(profile);
+                           }
+
+                            details.push(profile);
+                           // console.log(details);
+
+                            
+                            ReactDOM.render(<View details={details}/>,document.getElementById("ranklist"));
+                    
+                        }
+                        
+                    
+                        http.open("GET",`http://localhost/platformtrack/track.php?uname=${temp[4]}&cname=${temp[5]}&contest=${contest.value}&cid=${cid.value}`);
+                        http.send();
+                 
+                 
+             }
+
+             
+
+             
+        }}
+        
+        
+        ajax.open("GET",`http://localhost/platformtrack/leet.php`,false);
+        ajax.send();
+        //console.log("hjj");
+
+        
+        
+    }
+    
+    
+    
+    </script>
+</body>
+</html>

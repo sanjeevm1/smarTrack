@@ -1,0 +1,53 @@
+
+
+#header{
+    background-color:black;
+    color:whitesmoke;
+    position: absolute;
+    top:0%;
+    left:0%;
+    right:0%;
+}
+
+h1{
+    font-family: 'Koulen', cursive;
+    letter-spacing: 2.5px;
+}
+
+table{
+    position: absolute;
+    left:25%;
+}
+
+input,select{
+    background-color:white;
+    border-color: black;
+    padding-top:5px;
+    padding-bottom:10px;
+}
+
+#inputs{
+    
+    position: absolute;
+    left:15%;
+}
+
+#search{
+
+    position: absolute;
+    left:47%;
+    background-color:white;
+    border-radius: 10px;
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+    padding:10px;
+    padding-left:20px;
+    padding-right:20px;
+
+
+}
+
+a{
+    color:white;
+}

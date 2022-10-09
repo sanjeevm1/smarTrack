@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <title>Skillrack</title>
+</head>
+<body>
+    
+    <button onclick="result()">Result</button>
+    <br/><br/>
+
+    <table>
+        <thead>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Year</th>
+            <th>sec</th>
+            <th>Global Rank</th>
+            <th>Level</th>
+            <th>Gold</th>
+            <th>Silver</th>
+            <th>Bronze</th>
+            <th>Programs Solved</th>
+            <th>Code tests</th>
+            <th>Tracks</th>
+            <th>DC</th>
+            <th>DT</th>
+        </thead>
+
+        <tbody id="tb">
+
+        </tbody>
+    </table>
+
+    <h1 id="h"></h1>
+
+
+ <script type="text/babel">
+
+
+let details=[];
+
+let obj=[{name:"Sanjeev Chandran M",year:2,dept:"CSE",sec:"B",profile:"http://intern.skillrack.com/profile/317272/0107e3bace3be0250585ebd24e8fe8c5e64d0847"},{name:"Pranesh S",year:2,dept:"CSE",sec:"B",profile:"http://intern.skillrack.com/profile/317245/5e586b0aec37c3f13d0b1f0f91c3c0c9b67dad93"},{name:"Ram Prasath K",year:2,dept:"CSE",sec:"B",profile:"http://intern.skillrack.com/profile/317260/92fd6036f69f3a9dd7da68a2fac57d41a042fddd"}];
+
+function View(props){
+
+    let li=[],p=props.details;
+    //console.log(p);
+
+    for(let i=0;i<p.length;i++){
+       console.log(i);
+        let temp=<tr><td>{p[i].name}</td><td>{p[i].year}</td><td>{p[i].dept}</td><td>{p[i].sec}</td><td>{p[i].rank}</td><td>{p[i].level}</td><td>{p[i].gold}</td><td>{p[i].silver}</td><td>{p[i].bronze}</td><td>{p[i].program}</td><td>{p[i].tests}</td><td>{p[i].track}</td><td>{p[i].dc}</td><td>{p[i].dt}</td></tr>
+        li.push(temp);
+    }
+
+    return li;
+    
+}
+
+function result(){
+
+    let ajax=new XMLHttpRequest();
+
+    for(let i=0;i<obj.length;i++){
+
+           ajax.onload=()=>{
+
+                //console.log(ajax.responseText);
+
+
+                 let dom=new DOMParser().parseFromString(ajax.responseText,"text/html");
+    
+                 let arr=dom.getElementsByClassName("statistic"),profile={};
+                 
+    //console.log(dom);
+
+                profile["name"]=obj[i].name;
+                profile["year"]=obj[i].year;
+                profile["dept"]=obj[i].dept;
+                profile["sec"]=obj[i].sec;
+                profile["index"]=i;
+
+                profile["rank"]=arr[0].childNodes[1].innerText.trim();
+                profile["level"]=arr[1].childNodes[1].innerText.trim();
+                profile["gold"]=arr[2].childNodes[1].innerText.trim();
+                profile["silver"]=arr[3].childNodes[1].innerText.trim();
+                profile["bronze"]=arr[4].childNodes[1].innerText.trim();
+                profile["program"]=arr[5].childNodes[1].innerText.trim();
+                profile["tests"]=arr[6].childNodes[1].innerText.trim();
+                profile["tracks"]=arr[7].childNodes[1].innerText.trim();
+                profile["dc"]=arr[8].childNodes[1].innerText.trim();
+                profile["dt"]=arr[9].childNodes[1].innerText.trim();
+
+    
+                details.push(profile);
+                console.log(details);
+
+                ReactDOM.render(<View details={details}/>,document.getElementById("tb"));
+
+        }
+
+
+ajax.open("GET",`skillrack.php?link=${obj[i].profile}`,false);
+ajax.send();
+
+}}
+
+</script>
+
+</body>
+</html>

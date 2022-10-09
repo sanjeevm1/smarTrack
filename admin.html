@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <title>Admin</title>
+</head>
+<body>
+
+  <div id="login">
+    <input type="text" placeholder="user" id="uname"/>
+    <input type="password" placeholder="password" id="pass"/>
+    <button onclick="login()">Login</button>
+  </div>
+
+    <div style="display:none" id="insert">
+    
+             <form action="http://localhost/platformtrack/auth.php?opt=2" method="post">
+            
+                    <input required name="sname" placeholder="name" type="text"/>
+                    <input required name="regno" placeholder="Register-No" type="text">
+                    <input required name="year"  placeholder="year" type="number"/>
+                    <input required name="dept"  placeholder="dept" type="text"/>
+                    <input required name="cname" placeholder="section" type="text"/>
+                    <input required name="leetcode" placeholder="leectcode-username" type="text">
+                    <input required name="codechef" placeholder="code-chef-username" type="text">
+
+                    <input type="submit"/>
+
+            </form>
+    </div>
+
+    <script type="text/javascript">
+    
+     function login(){
+          
+          let ajax=new XMLHttpRequest();
+
+          ajax.onload=()=>{
+                 
+               if(ajax.responseText==0)
+               alert("User not found");
+
+               else{
+                   document.getElementById("insert").style.display="block";
+                   document.getElementById("login").style.display="none";
+               }
+          }
+
+          ajax.open("GET",`http://localhost/platformtrack/auth.php?uname=${document.getElementById("uname").value}&pass=${document.getElementById("pass").value}&opt=1`);
+          ajax.send();
+     }
+
+    </script>
+</body>
+
+
+</html>
